@@ -15,9 +15,6 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SONY TEN 3 HD"  group-title="SPORTS",SONY TEN 3 HD
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 
-#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR SPORTS SELECT 1 HD"  group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
-
 #EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DD SPORTS"  group-title="SPORTS",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
