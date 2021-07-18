@@ -117,5 +117,9 @@ http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
 http://tv.pmcon.net/hls/stream40.m3u8
 
+#EXTM3U
+
+#EXTINF:10, tvg-id="" tvg-logo="" tvg-name="GAZI TV"  group-title="BANGLA ",GAZI TV
+http://bciptv.net:8082/GAZI/tracks-v1a1/mono.m3u8?token=adc9c49baae1548b9abc51615c58c581cffc933d-fa10a8a3e7c929e7e62aad061bf69661-1626609280-1626598480
 
 
