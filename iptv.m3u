@@ -1,6 +1,21 @@
 #EXTM3U
 
-#EXTINF:1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel1"  group-title="New Group",New Channel1
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WILLOW CRICKET HD"  group-title="SPORTS",WILLOW CRICKET HD
+http://212.224.98.196:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SKY SPORTS CRICKET"  group-title="SPORTS",SKY SPORTS CRICKET
+http://185.180.15.13:2200/EX/Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RK
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR SPORTS SELECT 1 HD"  group-title="SPORTS",STAR SPORTS SELECT 1 HD
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR SPORTS 3"  group-title="SPORTS",STAR SPORTS 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SONY TEN 3 HD"  group-title="SPORTS",SONY TEN 3 HD
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+
+#EXTINF:1, tvg-id="New EPG" tvg-logo="" tvg-name="New Channel1"  group-title="New Group",New Channel1
 http://tv.pmcon.net/hls/stream1.m3u8
 
 #EXTINF:2, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
