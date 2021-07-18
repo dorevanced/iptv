@@ -15,6 +15,38 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SONY TEN 3 HD"  group-title="SPORTS",SONY TEN 3 HD
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR SPORTS SELECT 1 HD"  group-title="SPORTS",STAR SPORTS SELECT 1 HD
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DD SPORTS"  group-title="SPORTS",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SKY SPORTS CRICKET"  group-title="SPORTS",SKY SPORTS CRICKET
+http://185.180.15.13:2200/EX/Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RK
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SUPER SPORT CRICKET"  group-title="SPORTS",SUPER SPORT CRICKET
+http://185.180.15.15:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BT SPORTHD 1"  group-title="SPORTS",BT SPORTHD 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BT SPORTHD 2"  group-title="SPORTS",BT SPORTHD 2
+http://212.224.98.204:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BT SPORTHD 3"  group-title="SPORTS",BT SPORTHD 3
+http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FREE SPORTS"  group-title="SPORTS",FREE SPORTS 
+http://212.224.98.207:2200/EX/Free_Sports_SD-uk/tracks-v1a1/mono.m3u8?token=
+
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR SPORTS HINDI HD 1"  group-title="SPORTS",STAR SPORTS HINDI HD 1
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR SPORTS SELECT 1 HD"  group-title="SPORTS", STAR SPORTS SELECT 1 HD
+STAR SPORTS 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+
 #EXTINF:1, tvg-id="New EPG" tvg-logo="" tvg-name="New Channel1"  group-title="New Group",New Channel1
 http://tv.pmcon.net/hls/stream1.m3u8
 
@@ -143,5 +175,7 @@ http://bciptv.net:8082/GAZI/tracks-v1a1/mono.m3u8?token=adc9c49baae1548b9abc5161
 http://bciptv.net:8082/kn10a/tracks-v1a1/mono.m3u8?token=af442f234a3d637a48c3a956ff8734155711846e-28571eec7ec1602286ef9178384fd9e5-1626609941-1626599141
 
 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR GOLD HD"  group-title="MOVIE",STAR GOLD HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/index.m3u8?token=
 
 
