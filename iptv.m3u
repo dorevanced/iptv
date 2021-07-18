@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="STAR SPORTS 1 HD"  group-title="SPORTS",STAR SPORTS 1 HD
+http://tv.pmcon.net/hls/stream15.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="STAR SPORTS 2 HD"  group-title="SPORTS",STAR SPORTS 2 HD
+http://tv.pmcon.net/hls/stream16.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SONY SIX HD"  group-title="SPORTS",SONY SIX HD
+http://tv.pmcon.net/hls/stream10.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PTV SPORTS"  group-title="SPORTS",PTV SPORTS
+http://tv.pmcon.net/hls/stream11.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WILLOW CRICKET HD"  group-title="SPORTS",WILLOW CRICKET HD
 http://212.224.98.196:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=
 
@@ -44,55 +56,43 @@ http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
 STAR SPORTS 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 
-#EXTINF:1, tvg-id="New EPG" tvg-logo="" tvg-name="New Channel1"  group-title="New Group",New Channel1
+#EXTINF:1, tvg-id="New EPG" tvg-logo="" tvg-name="&PRIVE HD"  group-title="MOVIE",&PRIVE HD
 http://tv.pmcon.net/hls/stream1.m3u8
 
-#EXTINF:2, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:2, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AXN"  group-title="MOVIE",AXN
 http://tv.pmcon.net/hls/stream2.m3u8
 
-#EXTINF:3, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:3, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="UTV ACTION"  group-title="MOVIE",UTV ACTION
 http://tv.pmcon.net/hls/stream3.m3u8
 
-#EXTINF:4, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="1"  group-title="New Group",1
+#EXTINF:4, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="9XM"  group-title="OTHERS",9XM
 http://tv.pmcon.net/hls/stream4.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SONY BBC EARTH"  group-title="OTHERS",SONY BBC EARTH
 http://tv.pmcon.net/hls/stream5.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ANIMAL PLANET HD"  group-title="OTHERS",ANIMAL PLANET HD
 http://tv.pmcon.net/hls/stream6.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="STAR MOVIES"  group-title="MOVIES",STAR MOVIES
 http://tv.pmcon.net/hls/stream7.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream2.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ZOOM"  group-title="OTHERS",ZOOM
+http://tv.pmcon.net/hls/stream8.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
 http://tv.pmcon.net/hls/stream9.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream10.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream11.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
 http://tv.pmcon.net/hls/stream12.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="OTHERS",NATIONAL GEOGRAPHIC HD
 http://tv.pmcon.net/hls/stream13.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="&PICTURES HD"  group-title="MOVIES",&PICTURES HD
 http://tv.pmcon.net/hls/stream14.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream15.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream16.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ATN BANGLA"  group-title="BANGLA",ATN BANGLA
 http://tv.pmcon.net/hls/stream17.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
