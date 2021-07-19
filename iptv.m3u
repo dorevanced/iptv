@@ -1,5 +1,206 @@
 #EXTM3U
 
+#EXTINF:-1,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1,Star Jalsha
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1,Colour Bangla
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1,Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,Ads sport cricket
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1,ATN Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/106.m3u8
+#EXTINF:-1,Banglavision
+http://iptv.kitv.live:1935/live/Shari/MTV-P/120.m3u8
+#EXTINF:-1,BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/122.m3u8
+#EXTINF:-1,Channel 9
+http://iptv.kitv.live:1935/live/Shari/MTV-P/111.m3u8
+#EXTINF:-1,Channel I
+http://iptv.kitv.live:1935/live/Shari/MTV-P/108.m3u8
+#EXTINF:-1,Deepto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
+#EXTINF:-1,Duronto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/169.m3u8
+#EXTINF:-1,Ekattor
+http://iptv.kitv.live:1935/live/Shari/MTV-P/105.m3u8
+#EXTINF:-1,Ekushey TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/118.m3u8
+#EXTINF:-1,Gaan Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
+#EXTINF:-1,GTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/110.m3u8
+#EXTINF:-1,Independent
+http://iptv.kitv.live:1935/live/Shari/MTV-P/115.m3u8
+#EXTINF:-1,JAMUNA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/116.m3u8
+#EXTINF:-1,Maasranga
+http://iptv.kitv.live:1935/live/Shari/MTV-P/104.m3u8
+#EXTINF:-1,Nagorik TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
+#EXTINF:-1,News 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/119.m3u8
+#EXTINF:-1,NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/112.m3u8
+#EXTINF:-1,Shomoy TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/117.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/125.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/124.m3u8
+#EXTINF:-1,Zee 24 Ghanta
+http://iptv.kitv.live:1935/live/Shari/MTV-P/192.m3u8
+#EXTINF:-1,Sony Aath
+http://iptv.kitv.live:1935/live/Shari/MTV-P/123.m3u8
+#EXTINF:-1,Akash Aath
+http://iptv.kitv.live:1935/live/Shari/MTV-P/130.m3u8
+#EXTINF:-1,DD Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/313.m3u8
+#EXTINF:-1,SangeetBangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/176.m3u8
+#EXTINF:-1,Kolkata TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/320.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8
+#EXTINF:-1,Star Sports 1 HD (Backup)
+http://iptv.kitv.live:1935/live/Shari/MTV-P/183.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
+#EXTINF:-1,Sony Six HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/158.m3u8
+#EXTINF:-1,Sony Ten 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/156.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
+#EXTINF:-1,Euro Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
+#EXTINF:-1,D Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/162.m3u8
+#EXTINF:-1,Sony TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8
+#EXTINF:-1,Sony Max
+http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
+#EXTINF:-1,Sony Pix
+http://iptv.kitv.live:1935/live/Shari/MTV-P/148.m3u8
+#EXTINF:-1,ZEE TV SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/135.m3u8
+#EXTINF:-1,Zee Cinema
+http://iptv.kitv.live:1935/live/Shari/MTV-P/136.m3u8
+#EXTINF:-1,Star Plus
+http://iptv.kitv.live:1935/live/Shari/MTV-P/134.m3u8
+#EXTINF:-1,Star Gold SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/141.m3u8
+#EXTINF:-1,HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
+#EXTINF:-1,Colors SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/139.m3u8
+#EXTINF:-1,History TV SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/193.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://iptv.kitv.live:1935/live/Shari/MTV-P/166.m3u8
+#EXTINF:-1,Discovery HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/167.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
+#EXTINF:-1,Nick
+http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
+#EXTINF:-1,Disney XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
+#EXTINF:-1,Sony Yay
+http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
+#EXTINF:-1,Cheebies Asia
+http://iptv.kitv.live:1935/live/Shari/MTV-P/173.m3u8
+#EXTINF:-1,MTV India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/181.m3u8
+#EXTINF:-1,MTV Europe
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MN+ HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/147.m3u8
+#EXTINF:-1,Manoranjan TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/321.m3u8
+#EXTINF:-1,TV P
+http://iptv.kitv.live:1935/live/Shari/MTV-P/150.m3u8
+#EXTINF:-1,Hum Masala
+http://iptv.kitv.live:1935/live/Shari/MTV-P/142.m3u8
+#EXTINF:-1,Hum Sitaray
+http://iptv.kitv.live:1935/live/Shari/MTV-P/143.m3u8
+#EXTINF:-1,9XO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/180.m3u8
+#EXTINF:-1,Music India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/190.m3u8
+#EXTINF:-1,Zing
+http://iptv.kitv.live:1935/live/Shari/MTV-P/322.m3u8
+#EXTINF:-1,E 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/189.m3u8
+#EXTINF:-1,Bflix Movies
+http://iptv.kitv.live:1935/live/Shari/MTV-P/144.m3u8
+#EXTINF:-1,Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1,Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1,Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1,Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1,Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1,ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+#EXTINF:-1,#EXTINF:-1 59.Channel TT
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8
+#EXTINF:-1,#EXTINF:-1 66.Nandan TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1,#EXTINF:-1 83.News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:-1,#EXTINF:-1 100.Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,#EXTINF:-1 132.Discovery Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1,#EXTINF:-1 137.BBC Earth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF:-1,#EXTINF:-1 138.Travel XP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF:-1,157.Bein Sports Xtra HD
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+#EXTINF:-1,165.Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1,166.Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+#EXTINF:-1,#EXTINF:-1 183.Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,#EXTINF:-1 279.Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1,#EXTINF:-1 280.RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1,#EXTINF:-1 281.Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1,#EXTINF:-1 282.MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1,#EXTINF:-1 287.Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,#EXTINF:-1 290.California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1,#EXTINF:-1 302.Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,#EXTINF:-1 88.Zee Bangla HD [Extra]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF:-1,#EXTINF:-1 112.Star Jalsha HD [Extra]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="STAR SPORTS 1 HD"  group-title="SPORTS",STAR SPORTS 1 HD
 http://tv.pmcon.net/hls/stream15.m3u8
 
