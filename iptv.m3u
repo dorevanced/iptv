@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,FREESPORTS
+https://list.iptvcat.com/my_list/s/6dae5f6cb53541ec0af5b46aa99d609f.m3u8
+#EXTINF:-1,FREESPORTS
+https://list.iptvcat.com/my_list/s/8919f4ab1d1d328daa7084b17b7e1c94.m3u8
+#EXTINF:-1,FREESPORTS
+https://list.iptvcat.com/my_list/s/d479a106f0eea6199784e97d9d4a9b44.m3u8
 #EXTINF:-1,TSN 1
 http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzA6MDAgUE0maGFzaF92YWx1ZT1MWkp3T0FmNTQ4ViswZTFlMHJhRExRPT0mdmFsaWRtaW51dGVzPTIw
 
