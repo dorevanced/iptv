@@ -1,454 +1,445 @@
 #EXTM3U
-#EXTM3U
+
 #EXTINF:0,ENC-15 Independet TV
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/118
 #EXTINF:0,IRD-2 AXN HD East Asia
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/737
 #EXTINF:0,IRD-3 Disney Junior
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/418
 #EXTINF:0,IRD-3 Zee TV HD
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/318
 #EXTINF:0,IRD-2 Colors Cineplex HD
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/345
 #EXTINF:0,INT-S HBO Hits HD
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/740
 #EXTINF:0,IRD-2 Sony Max 2
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/339
 #EXTINF:0,SAT>IP NDTV India
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/1011
 #EXTINF:0,IRD-2 & Prive HD
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/718
 #EXTINF:0,IRD-2 Star Gold HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/308
 #EXTINF:0,IRD-3 Zee Zest
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/508
 #EXTINF:0,IRD-3 Sony Ten 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/612
 #EXTINF:0,IRD-3 & Pictures
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/329
 #EXTINF:0,IRD-3 Star Sports Select 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/608
 #EXTINF:0,IRD-3 Sony SET HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/334
 #EXTINF:0,INT-S MBC Action HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/735
 #EXTINF:0,ENC-5 Colors HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/342
 #EXTINF:0,ENC-13 Sony SAB
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/335
 #EXTINF:0,INT-S Cinemax HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/742
 #EXTINF:0,IRD-3 Disney Stories
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/442
 #EXTINF:0,SAT>IP  Colors Rishtey
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/346
 #EXTINF:0,IRD-2 Euro Sports HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/620
 #EXTINF:0,ENC-6 History TV18 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/520
 #EXTINF:0,IRD-2 UTV Movies
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/316
 #EXTINF:0,ENC-5 Zee Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/320
 #EXTINF:0,ENC-15 Sony Ten 1
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/611
 #EXTINF:0,IRD-3 Discovery Science
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/511
 #EXTINF:0,IRD-3 Sony PIX HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/711
 #EXTINF:0,IRD-3 Bangla Hitz
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/211
 #EXTINF:0,INT-S MBC Max HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/734
 #EXTINF:0,ENC-5 Nick
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/411
 #EXTINF:0,IRD-2 Star Gold Select
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/311
 #EXTINF:0,IRD-3 Zee Classic
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/324
 #EXTINF:0,IRD-2 Zee Cafe HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/709
 #EXTINF:0,IRD-2 Movies Now HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/725
 #EXTINF:0,IRD-2 Animal Planet
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/525
 #EXTINF:0,SAT>IP  Rishtey Cineplex
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/a004
 #EXTINF:0,SAT>IP  Zee Anmol Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/325
 #EXTINF:0,IRD-3 Star Gold 2
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/309
 #EXTINF:0,ENC-17 Sony YaY!
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/409
 #EXTINF:0,IRD-2 Discovery HD World
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/509
 #EXTINF:0,IRD-2 MN+ HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/730
 #EXTINF:0,IRD-2 Romedy Now HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/727
 #EXTINF:0,ENC-7 T Sports HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/630
 #EXTINF:0,IRD-3 & Pictures HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/330
 #EXTINF:0,ENC-6 Colors Infinity HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/721
 #EXTINF:0,IRD-3 Zee Cinema HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/321
 #EXTINF:0,IRD-3 Travel XP
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/527
 #EXTINF:0,IRD-3 Colors Bangla Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/214
 #EXTINF:0,IRD-3 UTV HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/314
 #EXTINF:0,IRD-2 TLC HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/515
 #EXTINF:0,ENC-15 Sony Ten 3
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/615
 #EXTINF:0,IRD-2 Sun Bangla
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/215
 #EXTINF:0,IRD-2 UTV Action
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/315
 #EXTINF:0,IRD-2 Duronto TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/132
 #EXTINF:0,INT-S MBC 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/733
 #EXTINF:0,ENC-15 Nagorik TV
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/133
 #EXTINF:0,ENC-13 Sony SET
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/333
 #EXTINF:0,ENC-7 Zee TV
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/317
 #EXTINF:0,IRD-3 & Xplor HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/331
 #EXTINF:0,IRD-3 Discovery Kids
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/417
 #EXTINF:0,IRD-2 BBC World News
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/1001
 #EXTINF:0,IRD-2 Star Bharat HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/304
 #EXTINF:0,IRD-2 Disney Channel
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/404
 #EXTINF:0,IRD-3 Star Sports 3
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/605
 #EXTINF:0,IRD-2 Al Jazeera English
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/1005
 #EXTINF:0,IRD-2 Star Movies HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/705
 #EXTINF:0,ENC-7 Zee Bangla
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/205
 #EXTINF:0,IRD-3 & Flix HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/716
 #EXTINF:0,IRD-2 Disney International HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/405
 #EXTINF:0,SAT>IP  Star Utsav
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/305
 #EXTINF:0,ENC-8 Gazi TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/122
 #EXTINF:0,IRD-2 Star Sports Select 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/610
 #EXTINF:0,IRD-3 Star Sports Select 1
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/607
 #EXTINF:0,IRD-2 Star Movies Select HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/707
 #EXTINF:0,IRD-2 Miniplex HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/326
 #EXTINF:0,ENC-13 Sony Aath
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/210
 #EXTINF:0,IRD-2 Animal Planet HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/526
 #EXTINF:0,IRD-2 Comedy Central HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/723
 #EXTINF:0,INT-S HBO Signature HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/741
 #EXTINF:0,IRD-2 Star Sports 2
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/603
 #EXTINF:0,QAM Service Unavailable
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/1866
 #EXTINF:0,IRD-3 Fox Life HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/504
 #EXTINF:0,IRD-2 Sony BBC Earth HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/507
 #EXTINF:0,ENC-6 Zee Bangla Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/207
 #EXTINF:0,IRD-2 Star Gold
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/307
 #EXTINF:0,IRD-2 Star Movies
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/704
 #EXTINF:0,IRD-2 Star World Premiere HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/703
 #EXTINF:0,IRD-3 Sony PIX
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/710
 #EXTINF:0,IRD-2 Sony Ten 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/614
 #EXTINF:0,IRD-3 Zee Action
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/322
 #EXTINF:0,IRD-2 Jalsha Movies HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/204
 #EXTINF:0,IRD-2 CNN
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/1002
 #EXTINF:0,IRD-2 Sony Ten 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/616
 #EXTINF:0,ENC-15 Maasranga TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/119
 #EXTINF:0,ENC-7 VH1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/806
 #EXTINF:0,IRD-2 Madani TV Bangla
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/902
 #EXTINF:0,ENC-15 Channel 9
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/120
 #EXTINF:0,ENC-15 Sony Ten 2
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/613
 #EXTINF:0,ENC-5 MTV HD+
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/802
 #EXTINF:0,IRD-3 National Geographic Channel HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/502
 #EXTINF:0,ENC-8 Star Sports 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/602
 #EXTINF:0,ENC-18 Nick Junior
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/412
 #EXTINF:0,IRD-2 Star Gold Select HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/312
 #EXTINF:0,SAT>IP Sony Pal
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/341
 #EXTINF:0,SAT>IP  MTV Beats
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/805
 #EXTINF:0,IRD-2 MNX HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/713
 #EXTINF:0,SAT>IP  DD Sports
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/623
 #EXTINF:0,SAT>IP  Colors CIneplex Bollywood
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/343
 #EXTINF:0,IRD-2 Aaj Tak HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/1003
 #EXTINF:0,IRD-2 Bindass
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/313
 #EXTINF:0,IRD-2 Nick HD+
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/413
 #EXTINF:0,IRD-2 & TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/328
 #EXTINF:0,ENC-6 Colors Bangla HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/213
 #EXTINF:0,INT-S Warner TV
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/738
 #EXTINF:0,ENC-13 Sony MAX
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/337
 #EXTINF:0,ENC-8 Zee Bollywood
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/323
 #EXTINF:0,ENC-13 Sony SIX
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/617
 #EXTINF:0,ENC-13 Star Jalsha
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/201
 #EXTINF:0,ENC-14 Star Plus
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/301
 #EXTINF:0,IRD-2 Zee Bangla HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/206
 #EXTINF:0,ENC-8 Star Sports 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/604
 #EXTINF:0,IRD-2 Star Sports 1 Bangla
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/601
 #EXTINF:0,IRD-2 Star World HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/701
 #EXTINF:0,IRD-2 Cartoon Network
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/401
 #EXTINF:0,ENC-18 National Geographic Channel
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/501
 #EXTINF:0,IRD-3 Sony SIX HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/618
 #EXTINF:0,IRD-3 Somoy TV
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/117
 #EXTINF:0,IRD-2 MTV
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/801
 #EXTINF:0,SAT>IP  Sony Wah
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/340
 #EXTINF:0,INT-S HBO HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/739
 #EXTINF:0,IRD-3 Investigation Discovery HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/514
 #EXTINF:0,IRD-2 Animax HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/410
 #EXTINF:0,INT-S MBC Bollywood HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/347
 #EXTINF:0,IRD-3 Star Plus HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/302
 #EXTINF:0,IRD-3 Pogo
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/402
 #EXTINF:0,IRD-3 Discovery Turbo
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/512
 #EXTINF:0,IRD-2 Star Jalsha HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/202
 #EXTINF:0,IRD-3 Zoom
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/803
 #EXTINF:0,IRD-3 Marvel HQ
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/406
 #EXTINF:0,SAT>IP  Star Utsav Movies
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/306
 #EXTINF:0,IRD-2 Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/503
 #EXTINF:0,ENC-17 Sonic
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/403
 #EXTINF:0,ENC-13 Star Bharat
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/303
 #EXTINF:0,ENC-13 Jalsha Movies
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/203
 #EXTINF:0,IRD-2 Star Sports First
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/628
 #EXTINF:0,IRD-2 Sony MAX HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/338
 #EXTINF:0,IRD-2 Hungama
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/407
 #EXTINF:0,IRD-3 NDTV 24x7
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/1009
 #EXTINF:0,IRD-3 Deepto TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://103.157.237.18:8000/play/128
 
 
