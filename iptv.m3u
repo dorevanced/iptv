@@ -1,480 +1,419 @@
 #EXTM3U
 
-#EXTINF:0,ENC-15 Independet TV
+#EXTINF:Independet TV
 http://103.157.237.18:8000/play/118
-#EXTINF:0,IRD-2 AXN HD East Asia
+#EXTINF:AXN HD East Asia
 http://103.157.237.18:8000/play/737
-#EXTINF:0,IRD-3 Disney Junior
+#EXTINF:Disney Junior
 http://103.157.237.18:8000/play/418
-#EXTINF:0,IRD-3 Zee TV HD
+#EXTINF:Zee TV HD
 http://103.157.237.18:8000/play/318
-#EXTINF:0,IRD-2 Colors Cineplex HD
+#EXTINF:Colors Cineplex HD
 http://103.157.237.18:8000/play/345
-#EXTINF:0,INT-S HBO Hits HD
+#EXTINF:HBO Hits HD
 http://103.157.237.18:8000/play/740
-#EXTINF:0,IRD-2 Sony Max 2
+#EXTINF:Sony Max 2
 http://103.157.237.18:8000/play/339
-#EXTINF:0,SAT>IP NDTV India
+#EXTINF: NDTV India
 http://103.157.237.18:8000/play/1011
-#EXTINF:0,IRD-2 & Prive HD
+#EXTINF:& Prive HD
 http://103.157.237.18:8000/play/718
-#EXTINF:0,IRD-2 Star Gold HD
-
+#EXTINF:Star Gold HD
 http://103.157.237.18:8000/play/308
-#EXTINF:0,IRD-3 Zee Zest
-
+#EXTINF: Zee Zest
 http://103.157.237.18:8000/play/508
-#EXTINF:0,IRD-3 Sony Ten 1 HD
-
+#EXTINF: Sony Ten 1 HD
 http://103.157.237.18:8000/play/612
-#EXTINF:0,IRD-3 & Pictures
-
+#EXTINF: & Pictures
 http://103.157.237.18:8000/play/329
-#EXTINF:0,IRD-3 Star Sports Select 1 HD
-
+#EXTINF: Star Sports Select 1 HD
 http://103.157.237.18:8000/play/608
-#EXTINF:0,IRD-3 Sony SET HD
-
+#EXTINF: Sony SET HD
 http://103.157.237.18:8000/play/334
-#EXTINF:0,INT-S MBC Action HD
-
+#EXTINF: MBC Action HD
 http://103.157.237.18:8000/play/735
-#EXTINF:0,ENC-5 Colors HD
-
+#EXTINF:Colors HD
 http://103.157.237.18:8000/play/342
-#EXTINF:0,ENC-13 Sony SAB
-
+#EXTINF:Sony SAB
 http://103.157.237.18:8000/play/335
-#EXTINF:0,INT-S Cinemax HD
-
+#EXTINF: Cinemax HD
 http://103.157.237.18:8000/play/742
-#EXTINF:0,IRD-3 Disney Stories
-
+#EXTINF: Disney Stories
 http://103.157.237.18:8000/play/442
-#EXTINF:0,SAT>IP  Colors Rishtey
-
+#EXTINF:Colors Rishtey
 http://103.157.237.18:8000/play/346
-#EXTINF:0,IRD-2 Euro Sports HD
-
+#EXTINF:Euro Sports HD
 http://103.157.237.18:8000/play/620
-#EXTINF:0,ENC-6 History TV18 HD
-
+#EXTINF: History TV18 HD
 http://103.157.237.18:8000/play/520
-#EXTINF:0,IRD-2 UTV Movies
+#EXTINF: UTV Movies
 
 http://103.157.237.18:8000/play/316
-#EXTINF:0,ENC-5 Zee Cinema
+#EXTINF:Zee Cinema
 
 http://103.157.237.18:8000/play/320
-#EXTINF:0,ENC-15 Sony Ten 1
+#EXTINF: Sony Ten 1
 
 http://103.157.237.18:8000/play/611
-#EXTINF:0,IRD-3 Discovery Science
+#EXTINF: Discovery Science
 
 http://103.157.237.18:8000/play/511
-#EXTINF:0,IRD-3 Sony PIX HD
+#EXTINF: Sony PIX HD
 
 http://103.157.237.18:8000/play/711
-#EXTINF:0,IRD-3 Bangla Hitz
+#EXTINF: Bangla Hitz
 
 http://103.157.237.18:8000/play/211
-#EXTINF:0,INT-S MBC Max HD
+#EXTINF: MBC Max HD
 
 http://103.157.237.18:8000/play/734
-#EXTINF:0,ENC-5 Nick
+#EXTINF:Nick
 
 http://103.157.237.18:8000/play/411
-#EXTINF:0,IRD-2 Star Gold Select
+#EXTINF: Star Gold Select
 
 http://103.157.237.18:8000/play/311
-#EXTINF:0,IRD-3 Zee Classic
+#EXTINF: Zee Classic
 
 http://103.157.237.18:8000/play/324
-#EXTINF:0,IRD-2 Zee Cafe HD
+#EXTINF: Zee Cafe HD
 
 http://103.157.237.18:8000/play/709
-#EXTINF:0,IRD-2 Movies Now HD
+#EXTINF: Movies Now HD
 
 http://103.157.237.18:8000/play/725
-#EXTINF:0,IRD-2 Animal Planet
+#EXTINF: Animal Planet
 
 http://103.157.237.18:8000/play/525
-#EXTINF:0,SAT>IP  Rishtey Cineplex
+#EXTINF:  Rishtey Cineplex
 
 http://103.157.237.18:8000/play/a004
-#EXTINF:0,SAT>IP  Zee Anmol Cinema
+#EXTINF:  Zee Anmol Cinema
 
 http://103.157.237.18:8000/play/325
-#EXTINF:0,IRD-3 Star Gold 2
+#EXTINF: Star Gold 2
 
 http://103.157.237.18:8000/play/309
-#EXTINF:0,ENC-17 Sony YaY!
+#EXTINF:Sony YaY!
 
 http://103.157.237.18:8000/play/409
-#EXTINF:0,IRD-2 Discovery HD World
+#EXTINF: Discovery HD World
 
 http://103.157.237.18:8000/play/509
-#EXTINF:0,IRD-2 MN+ HD
+#EXTINF: MN+ HD
 
 http://103.157.237.18:8000/play/730
-#EXTINF:0,IRD-2 Romedy Now HD
+#EXTINF: Romedy Now HD
 
 http://103.157.237.18:8000/play/727
-#EXTINF:0,ENC-7 T Sports HD
+#EXTINF: T Sports HD
 
 http://103.157.237.18:8000/play/630
-#EXTINF:0,IRD-3 & Pictures HD
+#EXTINF: & Pictures HD
 
 http://103.157.237.18:8000/play/330
-#EXTINF:0,ENC-6 Colors Infinity HD
+#EXTINF: Colors Infinity HD
 
 http://103.157.237.18:8000/play/721
-#EXTINF:0,IRD-3 Zee Cinema HD
+#EXTINF: Zee Cinema HD
 
 http://103.157.237.18:8000/play/321
-#EXTINF:0,IRD-3 Travel XP
+#EXTINF: Travel XP
 
 http://103.157.237.18:8000/play/527
-#EXTINF:0,IRD-3 Colors Bangla Cinema
+#EXTINF: Colors Bangla Cinema
 
 http://103.157.237.18:8000/play/214
-#EXTINF:0,IRD-3 UTV HD
+#EXTINF: UTV HD
 
 http://103.157.237.18:8000/play/314
-#EXTINF:0,IRD-2 TLC HD
+#EXTINF: TLC HD
 
 http://103.157.237.18:8000/play/515
-#EXTINF:0,ENC-15 Sony Ten 3
+#EXTINF: Sony Ten 3
 
 http://103.157.237.18:8000/play/615
-#EXTINF:0,IRD-2 Sun Bangla
+#EXTINF: Sun Bangla
 
 http://103.157.237.18:8000/play/215
-#EXTINF:0,IRD-2 UTV Action
+#EXTINF: UTV Action
 
 http://103.157.237.18:8000/play/315
-#EXTINF:0,IRD-2 Duronto TV HD
+#EXTINF: Duronto TV HD
 
 http://103.157.237.18:8000/play/132
-#EXTINF:0,INT-S MBC 2 HD
+#EXTINF: MBC 2 HD
 
 http://103.157.237.18:8000/play/733
-#EXTINF:0,ENC-15 Nagorik TV
+#EXTINF: Nagorik TV
 
 http://103.157.237.18:8000/play/133
-#EXTINF:0,ENC-13 Sony SET
+#EXTINF:Sony SET
 
 http://103.157.237.18:8000/play/333
-#EXTINF:0,ENC-7 Zee TV
+#EXTINF: Zee TV
 
 http://103.157.237.18:8000/play/317
-#EXTINF:0,IRD-3 & Xplor HD
+#EXTINF: & Xplor HD
 
 http://103.157.237.18:8000/play/331
-#EXTINF:0,IRD-3 Discovery Kids
+#EXTINF: Discovery Kids
 
 http://103.157.237.18:8000/play/417
-#EXTINF:0,IRD-2 BBC World News
+#EXTINF: BBC World News
 
 http://103.157.237.18:8000/play/1001
-#EXTINF:0,IRD-2 Star Bharat HD
+#EXTINF: Star Bharat HD
 
 http://103.157.237.18:8000/play/304
-#EXTINF:0,IRD-2 Disney Channel
+#EXTINF: Disney Channel
 
 http://103.157.237.18:8000/play/404
-#EXTINF:0,IRD-3 Star Sports 3
+#EXTINF: Star Sports 3
 
 http://103.157.237.18:8000/play/605
-#EXTINF:0,IRD-2 Al Jazeera English
+#EXTINF: Al Jazeera English
 
 http://103.157.237.18:8000/play/1005
-#EXTINF:0,IRD-2 Star Movies HD
+#EXTINF: Star Movies HD
 
 http://103.157.237.18:8000/play/705
-#EXTINF:0,ENC-7 Zee Bangla
+#EXTINF: Zee Bangla
 
 http://103.157.237.18:8000/play/205
-#EXTINF:0,IRD-3 & Flix HD
+#EXTINF: & Flix HD
 
 http://103.157.237.18:8000/play/716
-#EXTINF:0,IRD-2 Disney International HD
+#EXTINF: Disney International HD
 
 http://103.157.237.18:8000/play/405
-#EXTINF:0,SAT>IP  Star Utsav
+#EXTINF:  Star Utsav
 
 http://103.157.237.18:8000/play/305
-#EXTINF:0,ENC-8 Gazi TV HD
+#EXTINF:Gazi TV HD
 
 http://103.157.237.18:8000/play/122
-#EXTINF:0,IRD-2 Star Sports Select 2 HD
+#EXTINF: Star Sports Select 2 HD
 
 http://103.157.237.18:8000/play/610
-#EXTINF:0,IRD-3 Star Sports Select 1
+#EXTINF: Star Sports Select 1
 
 http://103.157.237.18:8000/play/607
-#EXTINF:0,IRD-2 Star Movies Select HD
+#EXTINF: Star Movies Select HD
 
 http://103.157.237.18:8000/play/707
-#EXTINF:0,IRD-2 Miniplex HD
+#EXTINF: Miniplex HD
 
 http://103.157.237.18:8000/play/326
-#EXTINF:0,ENC-13 Sony Aath
+#EXTINF:Sony Aath
 
 http://103.157.237.18:8000/play/210
-#EXTINF:0,IRD-2 Animal Planet HD
+#EXTINF: Animal Planet HD
 
 http://103.157.237.18:8000/play/526
-#EXTINF:0,IRD-2 Comedy Central HD
+#EXTINF: Comedy Central HD
 
 http://103.157.237.18:8000/play/723
-#EXTINF:0,INT-S HBO Signature HD
+#EXTINF: HBO Signature HD
 
 http://103.157.237.18:8000/play/741
-#EXTINF:0,IRD-2 Star Sports 2
+#EXTINF: Star Sports 2
 
 http://103.157.237.18:8000/play/603
 #EXTINF:0,QAM Service Unavailable
 
 http://103.157.237.18:8000/play/1866
-#EXTINF:0,IRD-3 Fox Life HD
+#EXTINF: Fox Life HD
 
 http://103.157.237.18:8000/play/504
-#EXTINF:0,IRD-2 Sony BBC Earth HD
+#EXTINF: Sony BBC Earth HD
 
 http://103.157.237.18:8000/play/507
-#EXTINF:0,ENC-6 Zee Bangla Cinema
+#EXTINF: Zee Bangla Cinema
 
 http://103.157.237.18:8000/play/207
-#EXTINF:0,IRD-2 Star Gold
+#EXTINF: Star Gold
 
 http://103.157.237.18:8000/play/307
-#EXTINF:0,IRD-2 Star Movies
+#EXTINF: Star Movies
 
 http://103.157.237.18:8000/play/704
-#EXTINF:0,IRD-2 Star World Premiere HD
+#EXTINF: Star World Premiere HD
 
 http://103.157.237.18:8000/play/703
-#EXTINF:0,IRD-3 Sony PIX
+#EXTINF: Sony PIX
 
 http://103.157.237.18:8000/play/710
-#EXTINF:0,IRD-2 Sony Ten 2 HD
+#EXTINF: Sony Ten 2 HD
 
 http://103.157.237.18:8000/play/614
-#EXTINF:0,IRD-3 Zee Action
+#EXTINF: Zee Action
 
 http://103.157.237.18:8000/play/322
-#EXTINF:0,IRD-2 Jalsha Movies HD
+#EXTINF: Jalsha Movies HD
 
 http://103.157.237.18:8000/play/204
-#EXTINF:0,IRD-2 CNN
+#EXTINF: CNN
 
 http://103.157.237.18:8000/play/1002
-#EXTINF:0,IRD-2 Sony Ten 3 HD
+#EXTINF: Sony Ten 3 HD
 
 http://103.157.237.18:8000/play/616
-#EXTINF:0,ENC-15 Maasranga TV HD
+#EXTINF: Maasranga TV HD
 
 http://103.157.237.18:8000/play/119
-#EXTINF:0,ENC-7 VH1 HD
+#EXTINF: VH1 HD
 
 http://103.157.237.18:8000/play/806
-#EXTINF:0,IRD-2 Madani TV Bangla
+#EXTINF: Madani TV Bangla
 
 http://103.157.237.18:8000/play/902
-#EXTINF:0,ENC-15 Channel 9
+#EXTINF: Channel 9
 
 http://103.157.237.18:8000/play/120
-#EXTINF:0,ENC-15 Sony Ten 2
+#EXTINF: Sony Ten 2
 
 http://103.157.237.18:8000/play/613
-#EXTINF:0,ENC-5 MTV HD+
+#EXTINF:MTV HD+
 
 http://103.157.237.18:8000/play/802
-#EXTINF:0,IRD-3 National Geographic Channel HD
+#EXTINF: National Geographic Channel HD
 
 http://103.157.237.18:8000/play/502
-#EXTINF:0,ENC-8 Star Sports 1 HD
+#EXTINF:Star Sports 1 HD
 
 http://103.157.237.18:8000/play/602
-#EXTINF:0,ENC-18 Nick Junior
+#EXTINF: Nick Junior
 
 http://103.157.237.18:8000/play/412
-#EXTINF:0,IRD-2 Star Gold Select HD
+#EXTINF: Star Gold Select HD
 
 http://103.157.237.18:8000/play/312
-#EXTINF:0,SAT>IP Sony Pal
+#EXTINF: Sony Pal
 
 http://103.157.237.18:8000/play/341
-#EXTINF:0,SAT>IP  MTV Beats
+#EXTINF:  MTV Beats
 
 http://103.157.237.18:8000/play/805
-#EXTINF:0,IRD-2 MNX HD
+#EXTINF: MNX HD
 
 http://103.157.237.18:8000/play/713
-#EXTINF:0,SAT>IP  DD Sports
+#EXTINF:  DD Sports
 
 http://103.157.237.18:8000/play/623
-#EXTINF:0,SAT>IP  Colors CIneplex Bollywood
+#EXTINF:  Colors CIneplex Bollywood
 
 http://103.157.237.18:8000/play/343
-#EXTINF:0,IRD-2 Aaj Tak HD
+#EXTINF: Aaj Tak HD
 
 http://103.157.237.18:8000/play/1003
-#EXTINF:0,IRD-2 Bindass
+#EXTINF: Bindass
 
 http://103.157.237.18:8000/play/313
-#EXTINF:0,IRD-2 Nick HD+
+#EXTINF: Nick HD+
 
 http://103.157.237.18:8000/play/413
-#EXTINF:0,IRD-2 & TV HD
+#EXTINF: & TV HD
 
 http://103.157.237.18:8000/play/328
-#EXTINF:0,ENC-6 Colors Bangla HD
+#EXTINF: Colors Bangla HD
 
 http://103.157.237.18:8000/play/213
-#EXTINF:0,INT-S Warner TV
+#EXTINF: Warner TV
 
 http://103.157.237.18:8000/play/738
-#EXTINF:0,ENC-13 Sony MAX
+#EXTINF:Sony MAX
 
 http://103.157.237.18:8000/play/337
-#EXTINF:0,ENC-8 Zee Bollywood
+#EXTINF:Zee Bollywood
 
 http://103.157.237.18:8000/play/323
-#EXTINF:0,ENC-13 Sony SIX
+#EXTINF:Sony SIX
 
 http://103.157.237.18:8000/play/617
-#EXTINF:0,ENC-13 Star Jalsha
+#EXTINF:Star Jalsha
 
 http://103.157.237.18:8000/play/201
-#EXTINF:0,ENC-14 Star Plus
+#EXTINF:Star Plus
 
 http://103.157.237.18:8000/play/301
-#EXTINF:0,IRD-2 Zee Bangla HD
+#EXTINF: Zee Bangla HD
 
 http://103.157.237.18:8000/play/206
-#EXTINF:0,ENC-8 Star Sports 2 HD
+#EXTINF:Star Sports 2 HD
 
 http://103.157.237.18:8000/play/604
-#EXTINF:0,IRD-2 Star Sports 1 Bangla
+#EXTINF: Star Sports 1 Bangla
 
 http://103.157.237.18:8000/play/601
-#EXTINF:0,IRD-2 Star World HD
+#EXTINF: Star World HD
 
 http://103.157.237.18:8000/play/701
-#EXTINF:0,IRD-2 Cartoon Network
+#EXTINF: Cartoon Network
 
 http://103.157.237.18:8000/play/401
-#EXTINF:0,ENC-18 National Geographic Channel
+#EXTINF: National Geographic Channel
 
 http://103.157.237.18:8000/play/501
-#EXTINF:0,IRD-3 Sony SIX HD
+#EXTINF: Sony SIX HD
 
 http://103.157.237.18:8000/play/618
-#EXTINF:0,IRD-3 Somoy TV
+#EXTINF: Somoy TV
 
 http://103.157.237.18:8000/play/117
-#EXTINF:0,IRD-2 MTV
+#EXTINF: MTV
 
 http://103.157.237.18:8000/play/801
-#EXTINF:0,SAT>IP  Sony Wah
+#EXTINF:  Sony Wah
 
 http://103.157.237.18:8000/play/340
-#EXTINF:0,INT-S HBO HD
+#EXTINF: HBO HD
 
 http://103.157.237.18:8000/play/739
-#EXTINF:0,IRD-3 Investigation Discovery HD
-
+#EXTINF: Investigation Discovery HD
 http://103.157.237.18:8000/play/514
-#EXTINF:0,IRD-2 Animax HD
-
+#EXTINF: Animax HD
 http://103.157.237.18:8000/play/410
-#EXTINF:0,INT-S MBC Bollywood HD
-
+#EXTINF: MBC Bollywood HD
 http://103.157.237.18:8000/play/347
-#EXTINF:0,IRD-3 Star Plus HD
-
+#EXTINF: Star Plus HD
 http://103.157.237.18:8000/play/302
-#EXTINF:0,IRD-3 Pogo
-
+#EXTINF: Pogo
 http://103.157.237.18:8000/play/402
-#EXTINF:0,IRD-3 Discovery Turbo
-
+#EXTINF: Discovery Turbo
 http://103.157.237.18:8000/play/512
-#EXTINF:0,IRD-2 Star Jalsha HD
-
+#EXTINF: Star Jalsha HD
 http://103.157.237.18:8000/play/202
-#EXTINF:0,IRD-3 Zoom
-
+#EXTINF: Zoom
 http://103.157.237.18:8000/play/803
-#EXTINF:0,IRD-3 Marvel HQ
-
+#EXTINF: Marvel HQ
 http://103.157.237.18:8000/play/406
-#EXTINF:0,SAT>IP  Star Utsav Movies
-
+#EXTINF:  Star Utsav Movies
 http://103.157.237.18:8000/play/306
-#EXTINF:0,IRD-2 Nat Geo Wild HD
-
+#EXTINF: Nat Geo Wild HD
 http://103.157.237.18:8000/play/503
-#EXTINF:0,ENC-17 Sonic
-
+#EXTINF:Sonic
 http://103.157.237.18:8000/play/403
-#EXTINF:0,ENC-13 Star Bharat
-
+#EXTINF:Star Bharat
 http://103.157.237.18:8000/play/303
-#EXTINF:0,ENC-13 Jalsha Movies
-
+#EXTINF:Jalsha Movies
 http://103.157.237.18:8000/play/203
-#EXTINF:0,IRD-2 Star Sports First
-
+#EXTINF: Star Sports First
 http://103.157.237.18:8000/play/628
-#EXTINF:0,IRD-2 Sony MAX HD
-
+#EXTINF: Sony MAX HD
 http://103.157.237.18:8000/play/338
-#EXTINF:0,IRD-2 Hungama
-
+#EXTINF: Hungama
 http://103.157.237.18:8000/play/407
-#EXTINF:0,IRD-3 NDTV 24x7
-
+#EXTINF: NDTV 24x7
 http://103.157.237.18:8000/play/1009
-#EXTINF:0,IRD-3 Deepto TV HD
-
+#EXTINF: Deepto TV HD
 http://103.157.237.18:8000/play/128
-
-
-
-
-
-
-
-
-
 #EXTM3U,Super Sport Cricket
 http://185.180.15.15:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=
 #EXTM3U,BT SPORT 1 FHD
 http://212.224.98.204:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED
 #EXTM3U,BT SPORT 1 FHD
 http://185.180.15.13:2200/EX/Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RK
-#EXTM3U,BT SPORT 1 FHD
-https://list.iptvcat.com/my_list/s/d58053f7b8c40b04a617ac088d092ae1.m3u8
-
-	
-#EXTM3U,BT Sport ESPN FHD
-https://list.iptvcat.com/my_list/s/f29adeb4cc2352d6c9037d42274b6779.m3u8
-
-
-#EXTM3U,BT Sports 2
-https://list.iptvcat.com/my_list/s/d593c76d3a51c85acaa500b9276cdfdf.m3u8
-
-#EXTINF:-1,CHANNEL S
-http://list.iptvcat.com/my_list/s/4a1004e200184595a8bdf386afb04fd5.m3u8
-#EXTINF:-1,FREESPORTS
-http://list.iptvcat.com/my_list/s/6dae5f6cb53541ec0af5b46aa99d609f.m3u8
-#EXTINF:-1,FREESPORTS
-http://list.iptvcat.com/my_list/s/8919f4ab1d1d328daa7084b17b7e1c94.m3u8
-#EXTINF:-1,FREESPORTS
-http://list.iptvcat.com/my_list/s/d479a106f0eea6199784e97d9d4a9b44.m3u8
 #EXTINF:-1,TSN 1
 http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzA6MDAgUE0maGFzaF92YWx1ZT1MWkp3T0FmNTQ4ViswZTFlMHJhRExRPT0mdmFsaWRtaW51dGVzPTIw
 
@@ -488,28 +427,28 @@ http://stream.tvtap.live:8081/live/tsn3.stream/playlist.m3u8?wmsAuthSign=c2VydmV
 http://stream.tvtap.live:8081/live/tsn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzM6MDcgUE0maGFzaF92YWx1ZT1EMW9BaVdpU2RZOHpYMGlscTVQNU5BPT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1,TSN 5
+#EXTINF:TSN 5
 http://stream.tvtap.live:8081/live/tsn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzM6NTAgUE0maGFzaF92YWx1ZT03RnZVVTA0c2c0WUtDRUdCTWR2VERRPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1,CANAL+ SPORTS
+#EXTINF:CANAL+ SPORTS
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzQ6NTIgUE0maGFzaF92YWx1ZT15T0FycnB0SngzSnR4WUZOYVlKUmpBPT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1,PREMIER SPORTS
+#EXTINF:PREMIER SPORTS
 http://stream.tvtap.live:8081/live/prem.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6Mzc6MDUgUE0maGFzaF92YWx1ZT1LZWtTTHJWWmlLeXpsemtKMDFwa1RRPT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1,ESPN
+#EXTINF:ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDA6MzEgUE0maGFzaF92YWx1ZT11MkFUY0xacXRXMUpVZk9mQS9EZURnPT0mdmFsaWRtaW51dGVzPTIw
 
-
+#EXTINF:ESPN
 http://stream.tvtap.live:8081/live/nl-foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDQ6NDggUE0maGFzaF92YWx1ZT0zNm03bjdNQkx5cHFxQXNkS2xtWlV3PT0mdmFsaWRtaW51dGVzPTIw
 
 
-#EXTINF:-1,ESPN 2
+#EXTINF:ESPN 2
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDE6MTEgUE0maGFzaF92YWx1ZT1OR0w0Q0RwUEMxWXMzaSt4MG9CUkF3PT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1,ESPN 3
+#EXTINF:ESPN 3
 http://stream.tvtap.live:8081/live/nl-foxsports3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDU6NTggUE0maGFzaF92YWx1ZT05WFU3Skt1dDhBZEg1c3c0dGVBc1hRPT0mdmFsaWRtaW51dGVzPTIw
 
 
@@ -619,123 +558,82 @@ http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
 STAR SPORTS 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 
-#EXTINF:1, tvg-id="New EPG" tvg-logo="" tvg-name="&PRIVE HD"  group-title="MOVIE",&PRIVE HD
+#EXTINF:&PRIVE HD
 http://tv.pmcon.net/hls/stream1.m3u8
-
-#EXTINF:2, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AXN"  group-title="MOVIE",AXN
+#EXTINF:AXN
 http://tv.pmcon.net/hls/stream2.m3u8
-
-#EXTINF:3, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="UTV ACTION"  group-title="MOVIE",UTV ACTION
+#EXTINF:UTV ACTION
 http://tv.pmcon.net/hls/stream3.m3u8
-
-#EXTINF:4, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="9XM"  group-title="OTHERS",9XM
+#EXTINF:9XM
 http://tv.pmcon.net/hls/stream4.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SONY BBC EARTH"  group-title="OTHERS",SONY BBC EARTH
+#EXTINF:SONY BBC EARTH
 http://tv.pmcon.net/hls/stream5.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ANIMAL PLANET HD"  group-title="OTHERS",ANIMAL PLANET HD
+#EXTINF:ANIMAL PLANET HD
 http://tv.pmcon.net/hls/stream6.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="STAR MOVIES"  group-title="MOVIES",STAR MOVIES
+#EXTINF:STAR MOVIES
 http://tv.pmcon.net/hls/stream7.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ZOOM"  group-title="OTHERS",ZOOM
+#EXTINF:ZOOM
 http://tv.pmcon.net/hls/stream8.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream9.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:STAR SPORTS SELECT 1 HD
 http://tv.pmcon.net/hls/stream12.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="OTHERS",NATIONAL GEOGRAPHIC HD
+#EXTINF:NATIONAL GEOGRAPHIC HD
 http://tv.pmcon.net/hls/stream13.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="&PICTURES HD"  group-title="MOVIES",&PICTURES HD
+#EXTINF:&PICTURES HD
 http://tv.pmcon.net/hls/stream14.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ATN BANGLA"  group-title="BANGLA",ATN BANGLA
+#EXTINF:ATN BANGLA
 http://tv.pmcon.net/hls/stream17.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF: CHANNEL I HD
 http://tv.pmcon.net/hls/stream18.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:STAR GOLD HD
 http://tv.pmcon.net/hls/stream19.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:MAASRANGA HD
 http://tv.pmcon.net/hls/stream20.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:SOMOY TV
 http://tv.pmcon.net/hls/stream21.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:NICK
 http://tv.pmcon.net/hls/stream23.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:NAGORIK TV
 http://tv.pmcon.net/hls/stream24.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:ZEE CINEMA HD
 http://tv.pmcon.net/hls/stream25.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:ENTERR 10 BANGLA
 http://tv.pmcon.net/hls/stream26.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream27.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:STAR JALSHA HD
 http://tv.pmcon.net/hls/stream28.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:COLOR CINEPLEX HD
 http://tv.pmcon.net/hls/stream29.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:ZEE BANGLA HD
 http://tv.pmcon.net/hls/stream30.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:COLORS BANGLA HD
 http://tv.pmcon.net/hls/stream31.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream32.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://tv.pmcon.net/hls/stream33.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:TEN CRICKET
 http://tv.pmcon.net/hls/stream34.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:ALJAzEERA
 http://tv.pmcon.net/hls/stream35.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:BBC WORLD NEWS
 http://tv.pmcon.net/hls/stream36.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:TRAVELXP HD
 http://tv.pmcon.net/hls/stream37.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:STAR PLUS HD
 http://tv.pmcon.net/hls/stream38.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:SONY TEN 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+#EXTINF:SONY TEN 1 HD
 http://tv.pmcon.net/hls/stream40.m3u8
-
-#EXTM3U
-
-#EXTINF:10, tvg-id="" tvg-logo="" tvg-name="GAZI TV"  group-title="BANGLA ",GAZI TV
+#EXTINF:GAZI TV
 http://bciptv.net:8082/GAZI/tracks-v1a1/mono.m3u8?token=adc9c49baae1548b9abc51615c58c581cffc933d-fa10a8a3e7c929e7e62aad061bf69661-1626609280-1626598480
-
 #EXTM3U
-
-#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="T SPORTS HD"  group-title="BDIX",T SPORTS HD
+#EXTINF:T SPORTS HD
 http://bciptv.net:8082/kn10a/tracks-v1a1/mono.m3u8?token=af442f234a3d637a48c3a956ff8734155711846e-28571eec7ec1602286ef9178384fd9e5-1626609941-1626599141
-
-
-#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR GOLD HD"  group-title="MOVIE",STAR GOLD HD
+#EXTINF:STAR GOLD HD
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/index.m3u8?token=
-
-
