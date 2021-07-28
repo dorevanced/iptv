@@ -832,38 +832,6 @@ http://stream.tvtap.live:8081/live/nl-foxsports4.stream/playlist.m3u8?wmsAuthSig
 #EXTINF:-1,ESPN 5
 http://stream.tvtap.live:8081/live/nl-foxsports5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDc6MzUgUE0maGFzaF92YWx1ZT1CUHNxVlZCK0hkM01NZHk0OUsxU3dnPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1,ESPN 6
-http://stream.tvtap.live:8081/live/nl-foxsports6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDg6MTUgUE0maGFzaF92YWx1ZT0wRlBvWkc5aTFLOXlxNUd2V0VSQWFRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,ESPN U
-http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDI6MTIgUE0maGFzaF92YWx1ZT1WTzhFRGpubFR6WktFQ2NTWnV6a0l3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,FOX SPORTS 1
-http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDI6NTQgUE0maGFzaF92YWx1ZT1iUkZ0RE9waDE4NmdQWG16M1Z1MXRnPT0mdmFsaWRtaW51dGVzPTIwdGVzPTIw
-
-#EXTINF:-1,FOX SPORTS 2
-http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDM6MzggUE0maGFzaF92YWx1ZT10MGZYVGpLL1poVjRpOGZnMjl5QTBBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,MUTV
-http://stream.tvtap.live:8081/live/mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDk6MDEgUE0maGFzaF92YWx1ZT1BNzZWdjZIYUR1THZSZ2UrWktXZFBBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,SKY SPORTS 1
-http://stream.tvtap.live:8081/live/de-sport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDk6NDYgUE0maGFzaF92YWx1ZT1ET1cvNjlFdkl0dEJ3MkZWOTF3K3JnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,BT SPORTS 1
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NTE6MDcgUE0maGFzaF92YWx1ZT1ySVo5TUVLMnIxWG9Dd29LWGpkN0tRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1,BT SPORTS 2
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NTI6MDggUE0maGFzaF92YWx1ZT0rMEJCL2xuYUFGckNXKzhzT2g5MER3PT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1,BT SPORTS 3
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NTI6NTcgUE0maGFzaF92YWx1ZT02cmhSZCtaOGFVTHdyTzV0SDc5VUtBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,BT SPORTS ESPN
-http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NTQ6MDEgUE0maGFzaF92YWx1ZT0rUTBEcHkzS1R0WUdja0NVaW94NnRRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1, BT SPORTS 1
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MTI6NTQgUE0maGFzaF92YWx1ZT0vdkhLa0U5QVBaRW10VzZZWTRqN1NnPT0mdmFsaWRtaW51dGVzPTIw
 
 ,#EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
@@ -871,10 +839,7 @@ http://nandansyst.com/hls/nandan.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1,Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1,RU.TV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1,Thrill
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
 #EXTINF:-1,STAR SPORTS 1 HD
 http://tv.pmcon.net/hls/stream15.m3u8
 
@@ -888,29 +853,10 @@ http://livespecial.hjkm.info:11991/minerva/tensports/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1,PTV SPORTS
 http://tv.pmcon.net/hls/stream11.m3u8
 
-#EXTINF:-1,WILLOW CRICKET HD
-http://212.224.98.196:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1,SKY SPORTS CRICKET
-http://185.180.15.13:2200/EX/Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RK
-
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
 
 #EXTINF:-1,STAR SPORTS 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 
-#EXTINF:-1,SONY TEN 3 HD
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
-
-#EXTINF:-1, DD SPORTS
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-#EXTINF:-1, SKY SPORTS CRICKET
-http://185.180.15.13:2200/EX/Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RK
-
-#EXTINF:-1, SUPER SPORT CRICKET
-http://185.180.15.15:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1, BT SPORTHD 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -920,13 +866,6 @@ http://212.224.98.204:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1, BT SPORTHD 3
 http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED
-
-#EXTINF:-1, FREE SPORTS
-http://212.224.98.207:2200/EX/Free_Sports_SD-uk/tracks-v1a1/mono.m3u8?token=
-
-
-#EXTINF:-1, STAR SPORTS HINDI HD 1
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
 
 #EXTINF:-1,STAR SPORTS 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
@@ -1003,5 +942,3 @@ http://tv.pmcon.net/hls/stream38.m3u8
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1,SONY TEN 1 HD
 http://tv.pmcon.net/hls/stream40.m3u8
-#EXTINF:-1,STAR_GOLD_HD
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/index.m3u8?token=
