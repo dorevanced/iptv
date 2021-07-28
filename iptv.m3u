@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,STAR PLUS HD
-http://tv.pmcon.net/hls/stream38.m3u8
+
 #EXTINF:-1,SONY TEN 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1,SONY TEN 1 HD
@@ -43,7 +42,8 @@ http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 
 
-
+#EXTINF:-1, Sony Ten 3
+http://103.157.237.18:8000/play/615
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Sony-six-hd.png" group-title="Sports" ,Sony Six HD
 http://103.81.104.118/hls/stream10.m3u8
@@ -70,42 +70,8 @@ http://103.81.104.118/hls/stream40.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-1-Hindi-HD-Logo.jpg" group-title="Sports",Star Sports 1 Hindi
 https://5opm.vkcdn5.com/hls/ipl.m3u8
-
 
 
 #EXTINF:-1,Star Sports 1 HD
@@ -194,6 +160,33 @@ http://stream.tvtap.live:8081/live/nl-foxsports4.stream/playlist.m3u8?wmsAuthSig
 http://stream.tvtap.live:8081/live/nl-foxsports5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDc6MzUgUE0maGFzaF92YWx1ZT1CUHNxVlZCK0hkM01NZHk0OUsxU3dnPT0mdmFsaWRtaW51dGVzPTIw
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,STAR PLUS HD
+http://tv.pmcon.net/hls/stream38.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/nick.jpg" group-title="Cartoon" ,Nick
+http://103.81.104.118/hls/stream23.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonyyay.jpg" group-title="Cartoon" ,Sony Yay
+http://103.81.104.118/hls/stream32.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Ntv
@@ -264,15 +257,6 @@ https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA " group-title="Bangla",itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/atnbangla.jpg" group-title="Bangla" ,Atn Bangla
 http://103.81.104.118/hls/stream17.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/channeli.jpg" group-title="Bangla" ,Channel I
@@ -285,26 +269,276 @@ http://103.81.104.118/hls/stream21.m3u8
 http://103.81.104.118/hls/stream22.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/nagoriktvhd.jpg" group-title="Bangla" ,Nagorik TV
 http://103.81.104.118/hls/stream24.m3u8
+#EXTINF:-1,ZEE BANGLA HD
+http://tv.pmcon.net/hls/stream30.m3u8
+#EXTINF:-1,COLORS BANGLA HD
+http://tv.pmcon.net/hls/stream31.m3u8
 
+#EXTINF:-1,ENTERR 10 BANGLA
+http://tv.pmcon.net/hls/stream26.m3u8
+#EXTINF:-1,STAR JALSHA HD
+http://tv.pmcon.net/hls/stream28.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/nick.jpg" group-title="Cartoon" ,Nick
-http://103.81.104.118/hls/stream23.m3u8
+#EXTINF:-1,MAASRANGA HD
+http://tv.pmcon.net/hls/stream20.m3u8
+#EXTINF:-1,SOMOY TV
+http://tv.pmcon.net/hls/stream21.m3u8
+#EXTINF:-1,ATN BANGLA
+http://tv.pmcon.net/hls/stream17.m3u8
+#EXTINF:-1, Somoy TV
+http://103.157.237.18:8000/play/117
+#EXTINF:-1, CHANNEL I HD
+http://tv.pmcon.net/hls/stream18.m3u8
+#EXTINF:-1, Deepto TV HD
+http://103.157.237.18:8000/play/128
+#EXTINF:-1, Star Jalsha HD
+http://103.157.237.18:8000/play/202
+#EXTINF:-1,Jalsha Movies
+http://103.157.237.18:8000/play/203
+,#EXTINF:-1,Nandan TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1,News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:-1,Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,Star Jalsha
+http://103.157.237.18:8000/play/201
+#EXTINF:-1, Zee Bangla HD
+http://103.157.237.18:8000/play/206
+#EXTINF:-1,NAGORIK TV
+http://tv.pmcon.net/hls/stream24.m3u8
+#EXTINF:-1, Colors Bangla HD
+http://103.157.237.18:8000/play/213
+http://103.157.237.18:8000/play/806
+#EXTINF:-1, Madani TV Bangla
+http://103.157.237.18:8000/play/902
+#EXTINF:-1, Channel 9
+http://103.157.237.18:8000/play/120
+#EXTINF:-1, Colors Bangla Cinema
+http://103.157.237.18:8000/play/214
+#EXTINF:-1, Jalsha Movies HD
+http://103.157.237.18:8000/play/204
+#EXTINF:-1, Zee Bangla Cinema
+http://103.157.237.18:8000/play/207
+#EXTINF:-1, Maasranga TV HD
+http://103.157.237.18:8000/play/119
+#EXTINF:-1,Sony Aath
+http://103.157.237.18:8000/play/210
+#EXTINF:-1, Nagorik TV
+http://103.157.237.18:8000/play/133
+#EXTINF:-1, Zee Bangla
+http://103.157.237.18:8000/play/205
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Enter10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1, Sun Bangla
+http://103.157.237.18:8000/play/215
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,sangeet bangla
+https://cutt.ly/QnPbkRn
+#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,sangeet bangla 2
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonyyay.jpg" group-title="Cartoon" ,Sony Yay
-http://103.81.104.118/hls/stream32.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Music" ,Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1, Duronto TV HD
+http://103.157.237.18:8000/play/132
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/dis.png" group-title="Documentary" ,Discovery HD Bangla
 http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Nat_Geo_HD.png" group-title="Documentary" ,National Geographic HD Bangla
 http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/travelxphd.jpg" group-title="Documentary" ,Travelxp HD Bangla
 http://103.81.104.118/hls/stream37.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/bbcearth.jpg" group-title="Documentary" ,BBC earth
-http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/animalplanent.jpg" group-title="Documentary" ,Animal Planet HD Bangla
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1, Star Gold
+
+http://103.157.237.18:8000/play/307
+#EXTINF:-1, Star Movies
+
+http://103.157.237.18:8000/play/704
+#EXTINF:-1, Star World Premiere HD
+
+http://103.157.237.18:8000/play/703
+#EXTINF:-1, Sony PIX
+
+http://103.157.237.18:8000/play/710
+
+#EXTINF:-1, Zee Action
+
+http://103.157.237.18:8000/play/322
+
+#EXTINF:-1, CNN
+
+http://103.157.237.18:8000/play/1002
+
+#EXTINF:-1, VH1 HD
+
+
+
+#EXTINF:-1,MTV HD+
+
+http://103.157.237.18:8000/play/802
+#EXTINF:-1, National Geographic Channel HD
+
+http://103.157.237.18:8000/play/502
+
+#EXTINF:-1, Nick Junior
+
+http://103.157.237.18:8000/play/412
+#EXTINF:-1, Star Gold Select HD
+
+http://103.157.237.18:8000/play/312
+#EXTINF:-1, Sony Pal
+
+http://103.157.237.18:8000/play/341
+#EXTINF:-1,  MTV Beats
+
+http://103.157.237.18:8000/play/805
+#EXTINF:-1, MNX HD
+
+http://103.157.237.18:8000/play/713
+
+#EXTINF:-1,  Colors CIneplex Bollywood
+
+http://103.157.237.18:8000/play/343
+#EXTINF:-1, Aaj Tak HD
+
+http://103.157.237.18:8000/play/1003
+#EXTINF:-1, Bindass
+
+http://103.157.237.18:8000/play/313
+#EXTINF:-1, Nick HD+
+
+http://103.157.237.18:8000/play/413
+#EXTINF:-1, & TV HD
+
+http://103.157.237.18:8000/play/328
+
+#EXTINF:-1, Warner TV
+
+http://103.157.237.18:8000/play/738
+#EXTINF:-1,Sony MAX
+
+http://103.157.237.18:8000/play/337
+#EXTINF:-1,Zee Bollywood
+
+http://103.157.237.18:8000/play/323
+
+
+#EXTINF:-1,Star Plus
+
+http://103.157.237.18:8000/play/301
+
+
+
+http://103.157.237.18:8000/play/601
+#EXTINF:-1, Star World HD
+
+http://103.157.237.18:8000/play/701
+#EXTINF:-1, Cartoon Network
+
+http://103.157.237.18:8000/play/401
+#EXTINF:-1, National Geographic Channel
+
+http://103.157.237.18:8000/play/618
+#EXTINF:-1, MTV
+http://103.157.237.18:8000/play/801
+#EXTINF:-1,  Sony Wah
+
+http://103.157.237.18:8000/play/340
+#EXTINF:-1, HBO HD
+
+http://103.157.237.18:8000/play/739
+#EXTINF:-1, Investigation Discovery HD
+http://103.157.237.18:8000/play/514
+#EXTINF:-1, Animax HD
+http://103.157.237.18:8000/play/410
+#EXTINF:-1, MBC Bollywood HD
+http://103.157.237.18:8000/play/347
+#EXTINF:-1, Star Plus HD
+http://103.157.237.18:8000/play/302
+#EXTINF:-1, Pogo
+http://103.157.237.18:8000/play/402
+#EXTINF:-1, Discovery Turbo
+http://103.157.237.18:8000/play/512
+
+#EXTINF:-1, Zoom
+http://103.157.237.18:8000/play/803
+#EXTINF:-1, Marvel HQ
+http://103.157.237.18:8000/play/406
+#EXTINF:-1,  Star Utsav Movies
+http://103.157.237.18:8000/play/306
+#EXTINF:-1, Nat Geo Wild HD
+http://103.157.237.18:8000/play/503
+#EXTINF:-1,Sonic
+http://103.157.237.18:8000/play/403
+#EXTINF:-1,Star Bharat
+http://103.157.237.18:8000/play/303
+
+
+#EXTINF:-1, Sony MAX HD
+http://103.157.237.18:8000/play/338
+#EXTINF:-1, Hungama
+http://103.157.237.18:8000/play/407
+#EXTINF:-1, NDTV 24x7
+http://103.157.237.18:8000/play/1009
+
+
+#EXTINF:-1,&PRIVE HD
+http://tv.pmcon.net/hls/stream1.m3u8
+#EXTINF:-1,AXN
+http://tv.pmcon.net/hls/stream2.m3u8
+#EXTINF:-1,UTV ACTION
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:-1,9XM
+http://tv.pmcon.net/hls/stream4.m3u8
+#EXTINF:-1,SONY BBC EARTH
+http://tv.pmcon.net/hls/stream5.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://tv.pmcon.net/hls/stream6.m3u8
+#EXTINF:-1,STAR MOVIES
+http://tv.pmcon.net/hls/stream7.m3u8
+#EXTINF:-1,ZOOM
+http://tv.pmcon.net/hls/stream8.m3u8
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://tv.pmcon.net/hls/stream13.m3u8
+
+#EXTINF:-1,&PICTURES HD
+http://tv.pmcon.net/hls/stream14.m3u8
+
+
+
+#EXTINF:-1,STAR GOLD HD
+http://tv.pmcon.net/hls/stream19.m3u8
+
+#EXTINF:-1,NICK
+http://tv.pmcon.net/hls/stream23.m3u8
+
+
+#EXTINF:-1,ZEE CINEMA HD
+http://tv.pmcon.net/hls/stream25.m3u8
+
+#EXTINF:-1,COLOR CINEPLEX HD
+http://tv.pmcon.net/hls/stream29.m3u8
+
+#EXTINF:-1,ALJAzEERA
+http://tv.pmcon.net/hls/stream35.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1,TRAVELXP HD
+http://tv.pmcon.net/hls/stream37.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/bbcearth.jpg" group-title="Documentary" ,BBC earth
+http://103.81.104.118/hls/stream5.m3u8
+
 #EXTINF:-1 tvg-logo="https://scontent.fdac74-1.fna.fbcdn.net/v/t1.18169-9/10320478_10152478497521076_7403630555790092182_n.png?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=czbl7-qKMREAX_jWapO&_nc_ht=scontent.fdac74-1.fna&oh=ca9975bc7b45c3420ecb0e41d6394ebb&oe=60B8CA09" group-title="Documentary" ,BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="Documentary" ,TLC Hindi
@@ -329,18 +563,10 @@ https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Animal Planet Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,sangeet bangla
-https://cutt.ly/QnPbkRn
-#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,sangeet bangla 2
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Dhoom Music
-https://cutt.ly/BnPv0s2
+
 #EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,B4U Music
-https://cutt.ly/EnPbW9A
-#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Enter10 Bangla
-http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,HBO
@@ -358,17 +584,6 @@ http://103.81.104.118/hls/stream8.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music" ,Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla", spny aath 2 
-https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
 
 
 
@@ -422,33 +637,23 @@ http://103.157.237.18:8000/play/321
 #EXTINF:-1, Travel XP
 
 http://103.157.237.18:8000/play/527
-#EXTINF:-1, Colors Bangla Cinema
 
-http://103.157.237.18:8000/play/214
 #EXTINF:-1, UTV HD
 
 http://103.157.237.18:8000/play/314
 #EXTINF:-1, TLC HD
 
 http://103.157.237.18:8000/play/515
-#EXTINF:-1, Sony Ten 3
 
-http://103.157.237.18:8000/play/615
-#EXTINF:-1, Sun Bangla
 
-http://103.157.237.18:8000/play/215
 #EXTINF:-1, UTV Action
 
 http://103.157.237.18:8000/play/315
-#EXTINF:-1, Duronto TV HD
 
-http://103.157.237.18:8000/play/132
 #EXTINF:-1, MBC 2 HD
 
 http://103.157.237.18:8000/play/733
-#EXTINF:-1, Nagorik TV
 
-http://103.157.237.18:8000/play/133
 #EXTINF:-1,Sony SET
 
 http://103.157.237.18:8000/play/333
@@ -477,9 +682,7 @@ http://103.157.237.18:8000/play/1005
 #EXTINF:-1, Star Movies HD
 
 http://103.157.237.18:8000/play/705
-#EXTINF:-1, Zee Bangla
 
-http://103.157.237.18:8000/play/205
 #EXTINF:-1, & Flix HD
 
 http://103.157.237.18:8000/play/716
@@ -489,8 +692,6 @@ http://103.157.237.18:8000/play/405
 #EXTINF:-1,  Star Utsav
 
 http://103.157.237.18:8000/play/305
-#EXTINF:-1,Gazi TV HD
-
 
 #EXTINF:-1, Star Movies Select HD
 
@@ -498,9 +699,7 @@ http://103.157.237.18:8000/play/707
 #EXTINF:-1, Miniplex HD
 
 http://103.157.237.18:8000/play/326
-#EXTINF:-1,Sony Aath
 
-http://103.157.237.18:8000/play/210
 #EXTINF:-1, Animal Planet HD
 
 http://103.157.237.18:8000/play/526
@@ -508,252 +707,12 @@ http://103.157.237.18:8000/play/526
 
 http://103.157.237.18:8000/play/723
 #EXTINF:-1, HBO Signature HD
-
 http://103.157.237.18:8000/play/741
 
-
-#EXTINF:-1,0,QAM Service Unavailable
-
-http://103.157.237.18:8000/play/1866
 #EXTINF:-1, Fox Life HD
-
 http://103.157.237.18:8000/play/504
 #EXTINF:-1, Sony BBC Earth HD
 
 http://103.157.237.18:8000/play/507
-#EXTINF:-1, Zee Bangla Cinema
 
-http://103.157.237.18:8000/play/207
-#EXTINF:-1, Star Gold
-
-http://103.157.237.18:8000/play/307
-#EXTINF:-1, Star Movies
-
-http://103.157.237.18:8000/play/704
-#EXTINF:-1, Star World Premiere HD
-
-http://103.157.237.18:8000/play/703
-#EXTINF:-1, Sony PIX
-
-http://103.157.237.18:8000/play/710
-
-#EXTINF:-1, Zee Action
-
-http://103.157.237.18:8000/play/322
-#EXTINF:-1, Jalsha Movies HD
-
-http://103.157.237.18:8000/play/204
-#EXTINF:-1, CNN
-
-http://103.157.237.18:8000/play/1002
-
-#EXTINF:-1, Maasranga TV HD
-
-http://103.157.237.18:8000/play/119
-#EXTINF:-1, VH1 HD
-
-http://103.157.237.18:8000/play/806
-#EXTINF:-1, Madani TV Bangla
-
-http://103.157.237.18:8000/play/902
-#EXTINF:-1, Channel 9
-
-http://103.157.237.18:8000/play/120
-
-#EXTINF:-1,MTV HD+
-
-http://103.157.237.18:8000/play/802
-#EXTINF:-1, National Geographic Channel HD
-
-http://103.157.237.18:8000/play/502
-
-#EXTINF:-1, Nick Junior
-
-http://103.157.237.18:8000/play/412
-#EXTINF:-1, Star Gold Select HD
-
-http://103.157.237.18:8000/play/312
-#EXTINF:-1, Sony Pal
-
-http://103.157.237.18:8000/play/341
-#EXTINF:-1,  MTV Beats
-
-http://103.157.237.18:8000/play/805
-#EXTINF:-1, MNX HD
-
-http://103.157.237.18:8000/play/713
-
-#EXTINF:-1,  Colors CIneplex Bollywood
-
-http://103.157.237.18:8000/play/343
-#EXTINF:-1, Aaj Tak HD
-
-http://103.157.237.18:8000/play/1003
-#EXTINF:-1, Bindass
-
-http://103.157.237.18:8000/play/313
-#EXTINF:-1, Nick HD+
-
-http://103.157.237.18:8000/play/413
-#EXTINF:-1, & TV HD
-
-http://103.157.237.18:8000/play/328
-#EXTINF:-1, Colors Bangla HD
-
-http://103.157.237.18:8000/play/213
-#EXTINF:-1, Warner TV
-
-http://103.157.237.18:8000/play/738
-#EXTINF:-1,Sony MAX
-
-http://103.157.237.18:8000/play/337
-#EXTINF:-1,Zee Bollywood
-
-http://103.157.237.18:8000/play/323
-
-#EXTINF:-1,Star Jalsha
-
-http://103.157.237.18:8000/play/201
-#EXTINF:-1,Star Plus
-
-http://103.157.237.18:8000/play/301
-#EXTINF:-1, Zee Bangla HD
-
-http://103.157.237.18:8000/play/206
-
-
-http://103.157.237.18:8000/play/601
-#EXTINF:-1, Star World HD
-
-http://103.157.237.18:8000/play/701
-#EXTINF:-1, Cartoon Network
-
-http://103.157.237.18:8000/play/401
-#EXTINF:-1, National Geographic Channel
-
-
-
-http://103.157.237.18:8000/play/618
-#EXTINF:-1, Somoy TV
-
-http://103.157.237.18:8000/play/117
-#EXTINF:-1, MTV
-
-http://103.157.237.18:8000/play/801
-#EXTINF:-1,  Sony Wah
-
-http://103.157.237.18:8000/play/340
-#EXTINF:-1, HBO HD
-
-http://103.157.237.18:8000/play/739
-#EXTINF:-1, Investigation Discovery HD
-http://103.157.237.18:8000/play/514
-#EXTINF:-1, Animax HD
-http://103.157.237.18:8000/play/410
-#EXTINF:-1, MBC Bollywood HD
-http://103.157.237.18:8000/play/347
-#EXTINF:-1, Star Plus HD
-http://103.157.237.18:8000/play/302
-#EXTINF:-1, Pogo
-http://103.157.237.18:8000/play/402
-#EXTINF:-1, Discovery Turbo
-http://103.157.237.18:8000/play/512
-#EXTINF:-1, Star Jalsha HD
-http://103.157.237.18:8000/play/202
-#EXTINF:-1, Zoom
-http://103.157.237.18:8000/play/803
-#EXTINF:-1, Marvel HQ
-http://103.157.237.18:8000/play/406
-#EXTINF:-1,  Star Utsav Movies
-http://103.157.237.18:8000/play/306
-#EXTINF:-1, Nat Geo Wild HD
-http://103.157.237.18:8000/play/503
-#EXTINF:-1,Sonic
-http://103.157.237.18:8000/play/403
-#EXTINF:-1,Star Bharat
-http://103.157.237.18:8000/play/303
-#EXTINF:-1,Jalsha Movies
-http://103.157.237.18:8000/play/203
-
-#EXTINF:-1, Sony MAX HD
-http://103.157.237.18:8000/play/338
-#EXTINF:-1, Hungama
-http://103.157.237.18:8000/play/407
-#EXTINF:-1, NDTV 24x7
-http://103.157.237.18:8000/play/1009
-#EXTINF:-1, Deepto TV HD
-http://103.157.237.18:8000/play/128
-
-
-,#EXTINF:-1,Nandan TV
-http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1,News 18 Bangla
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1,Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-
-
-#EXTINF:-1,&PRIVE HD
-http://tv.pmcon.net/hls/stream1.m3u8
-#EXTINF:-1,AXN
-http://tv.pmcon.net/hls/stream2.m3u8
-#EXTINF:-1,UTV ACTION
-http://tv.pmcon.net/hls/stream3.m3u8
-#EXTINF:-1,9XM
-http://tv.pmcon.net/hls/stream4.m3u8
-#EXTINF:-1,SONY BBC EARTH
-http://tv.pmcon.net/hls/stream5.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://tv.pmcon.net/hls/stream6.m3u8
-#EXTINF:-1,STAR MOVIES
-http://tv.pmcon.net/hls/stream7.m3u8
-#EXTINF:-1,ZOOM
-http://tv.pmcon.net/hls/stream8.m3u8
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://tv.pmcon.net/hls/stream13.m3u8
-
-#EXTINF:-1,&PICTURES HD
-http://tv.pmcon.net/hls/stream14.m3u8
-
-#EXTINF:-1,ATN BANGLA
-http://tv.pmcon.net/hls/stream17.m3u8
-
-#EXTINF:-1, CHANNEL I HD
-http://tv.pmcon.net/hls/stream18.m3u8
-
-#EXTINF:-1,STAR GOLD HD
-http://tv.pmcon.net/hls/stream19.m3u8
-
-#EXTINF:-1,MAASRANGA HD
-http://tv.pmcon.net/hls/stream20.m3u8
-#EXTINF:-1,SOMOY TV
-http://tv.pmcon.net/hls/stream21.m3u8
-
-#EXTINF:-1,NICK
-http://tv.pmcon.net/hls/stream23.m3u8
-
-#EXTINF:-1,NAGORIK TV
-http://tv.pmcon.net/hls/stream24.m3u8
-
-#EXTINF:-1,ZEE CINEMA HD
-http://tv.pmcon.net/hls/stream25.m3u8
-
-#EXTINF:-1,ENTERR 10 BANGLA
-http://tv.pmcon.net/hls/stream26.m3u8
-#EXTINF:-1,STAR JALSHA HD
-http://tv.pmcon.net/hls/stream28.m3u8
-#EXTINF:-1,COLOR CINEPLEX HD
-http://tv.pmcon.net/hls/stream29.m3u8
-#EXTINF:-1,ZEE BANGLA HD
-http://tv.pmcon.net/hls/stream30.m3u8
-#EXTINF:-1,COLORS BANGLA HD
-http://tv.pmcon.net/hls/stream31.m3u8
-
-#EXTINF:-1,ALJAzEERA
-http://tv.pmcon.net/hls/stream35.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://tv.pmcon.net/hls/stream36.m3u8
-#EXTINF:-1,TRAVELXP HD
-http://tv.pmcon.net/hls/stream37.m3u8
 
