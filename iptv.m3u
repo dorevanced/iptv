@@ -1,17 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_576&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV 2
-http://103.106.243.163:8181//1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV 3
-http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",T Sports
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u82/bangla/T_sport_1stop.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Rabitholebd Sports
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_576&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",T Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Ntv
 http://10.16.100.205/hls/ntv_b_720.m3u8
