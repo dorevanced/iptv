@@ -1,5 +1,198 @@
 #EXTM3U
 
+#EXTINF:-1,STAR PLUS HD
+http://tv.pmcon.net/hls/stream38.m3u8
+#EXTINF:-1,SONY TEN 2 HD
+http://tv.pmcon.net/hls/stream39.m3u8
+#EXTINF:-1,SONY TEN 1 HD
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1,TEN CRICKET
+http://tv.pmcon.net/hls/stream34.m3u8
+
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://tv.pmcon.net/hls/stream12.m3u8
+
+#EXTINF:-1,STAR SPORTS 1 HD
+http://tv.pmcon.net/hls/stream15.m3u8
+
+#EXTINF:-1,STAR SPORTS 2 HD
+http://tv.pmcon.net/hls/stream16.m3u8
+
+#EXTINF:-1,SONY SIX HD
+http://tv.pmcon.net/hls/stream10.m3u8
+#EXTINF:-1,TEN SPORTS
+http://livespecial.hjkm.info:11991/minerva/tensports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDY6MTM6MTAgUE0maGFzaF92YWx1ZT1KQXJwMDhKTkRSU01YZUFLNUR2bkJRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,PTV SPORTS
+http://tv.pmcon.net/hls/stream11.m3u8
+
+
+#EXTINF:-1,STAR SPORTS 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+
+
+#EXTINF:-1, BT SPORTHD 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1, BT SPORTHD 2
+http://212.224.98.204:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED
+
+#EXTINF:-1, BT SPORTHD 3
+http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED
+
+#EXTINF:-1,STAR SPORTS 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Sony-six-hd.png" group-title="Sports" ,Sony Six HD
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports
+http://103.81.104.118/hls/stream11.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="Sports" ,Star Sports Select HD 1
+http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1
+http://103.81.104.118/hls/stream15.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/ster-sport-2hd.png" group-title="Sports" ,Star Sports HD 2
+http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" ,Ten Cricket
+http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_2.jpg" group-title="Sports" group-title="Sports" ,Sony Ten 2 HD
+http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Sports" ,Sony Ten 1 HD
+http://103.81.104.118/hls/stream40.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-1-Hindi-HD-Logo.jpg" group-title="Sports",Star Sports 1 Hindi
+https://5opm.vkcdn5.com/hls/ipl.m3u8
+
+
+
+#EXTINF:-1,Star Sports 1 HD
+
+http://103.157.237.18:8000/play/602
+#EXTINF:-1,  DD Sports
+
+http://103.157.237.18:8000/play/623
+
+#EXTINF:-1,Sony SIX
+
+http://103.157.237.18:8000/play/617
+#EXTINF:-1,Star Sports 2 HD
+
+http://103.157.237.18:8000/play/604
+#EXTINF:-1, Star Sports 1 Bangla
+
+http://103.157.237.18:8000/play/501
+#EXTINF:-1, Sony SIX HD
+#EXTINF:-1, Star Sports First
+http://103.157.237.18:8000/play/628
+
+#EXTINF:-1, T Sports HD
+http://103.157.237.18:8000/play/630
+#EXTINF:-1, Star Sports 3
+http://103.157.237.18:8000/play/605
+http://103.157.237.18:8000/play/122
+#EXTINF:-1, Star Sports Select 2 HD
+#EXTINF:-1, Star Sports 2
+http://103.157.237.18:8000/play/603
+http://103.157.237.18:8000/play/610
+#EXTINF:-1, Star Sports Select 1
+
+http://103.157.237.18:8000/play/607
+
+#EXTINF:-1, Sony Ten 2 HD
+http://103.157.237.18:8000/play/614
+#EXTINF:-1, Sony Ten 3 HD
+http://103.157.237.18:8000/play/616
+#EXTINF:-1, Sony Ten 2
+http://103.157.237.18:8000/play/613
+
+
+#EXTINF:-1,TSN 1
+http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzA6MDAgUE0maGFzaF92YWx1ZT1MWkp3T0FmNTQ4ViswZTFlMHJhRExRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,TSN 2
+http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzE6MjMgUE0maGFzaF92YWx1ZT1MTjBkenJrZ1hlZkNPQkVlekIyVlVnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,TSN 3
+http://stream.tvtap.live:8081/live/tsn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzI6MTcgUE0maGFzaF92YWx1ZT1ibmtLdEsvbGJES0hHSDY0OThwT3BRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,TSN 4
+http://stream.tvtap.live:8081/live/tsn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzM6MDcgUE0maGFzaF92YWx1ZT1EMW9BaVdpU2RZOHpYMGlscTVQNU5BPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1,TSN 5
+http://stream.tvtap.live:8081/live/tsn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzM6NTAgUE0maGFzaF92YWx1ZT03RnZVVTA0c2c0WUtDRUdCTWR2VERRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,CANAL+ SPORTS
+http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzQ6NTIgUE0maGFzaF92YWx1ZT15T0FycnB0SngzSnR4WUZOYVlKUmpBPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1,PREMIER SPORTS
+http://stream.tvtap.live:8081/live/prem.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6Mzc6MDUgUE0maGFzaF92YWx1ZT1LZWtTTHJWWmlLeXpsemtKMDFwa1RRPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1,ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDA6MzEgUE0maGFzaF92YWx1ZT11MkFUY0xacXRXMUpVZk9mQS9EZURnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,ESPN
+http://stream.tvtap.live:8081/live/nl-foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDQ6NDggUE0maGFzaF92YWx1ZT0zNm03bjdNQkx5cHFxQXNkS2xtWlV3PT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1,ESPN 2
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDE6MTEgUE0maGFzaF92YWx1ZT1OR0w0Q0RwUEMxWXMzaSt4MG9CUkF3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,ESPN 3
+http://stream.tvtap.live:8081/live/nl-foxsports3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDU6NTggUE0maGFzaF92YWx1ZT05WFU3Skt1dDhBZEg1c3c0dGVBc1hRPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1,ESPN 4
+http://stream.tvtap.live:8081/live/nl-foxsports4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDY6NDggUE0maGFzaF92YWx1ZT1vYlNGd01rUkR5NUVpaEwwS1hoMnN3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,ESPN 5
+http://stream.tvtap.live:8081/live/nl-foxsports5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDc6MzUgUE0maGFzaF92YWx1ZT1CUHNxVlZCK0hkM01NZHk0OUsxU3dnPT0mdmFsaWRtaW51dGVzPTIw
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
@@ -128,22 +321,6 @@ http://103.81.104.118/hls/stream3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Sony-six-hd.png" group-title="Sports" ,Sony Six HD
-http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports
-http://103.81.104.118/hls/stream11.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="Sports" ,Star Sports Select HD 1
-http://103.81.104.118/hls/stream12.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1
-http://103.81.104.118/hls/stream15.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/ster-sport-2hd.png" group-title="Sports" ,Star Sports HD 2
-http://103.81.104.118/hls/stream16.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" ,Ten Cricket
-http://103.81.104.118/hls/stream34.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_2.jpg" group-title="Sports" group-title="Sports" ,Sony Ten 2 HD
-http://103.81.104.118/hls/stream39.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Sports" ,Sony Ten 1 HD
-http://103.81.104.118/hls/stream40.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,Discover English
@@ -168,8 +345,7 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzU4MjUxMX19fV19&Signature=FxCqo-RpGVnos-OuuuhOttNmUoarVsgVBOvGs4vDc5yoX6nzviCauH1dSLPAheM5vQc-KCgUft0r-Wkim3VrLMh-BFKngZ-enVtpoJTp42ww4vHx1FQjyoyC1wnAd6MWF8UlI8oWzao2jqjwu9vCU4W3exttOstdXZ9eq60kHvSAR7P5VhNlatfeCAB-Ic-UkpHfOItn34aEvcohp5Nad84Ut1F1A4yKefdB97yuO2UdPG8j30zjFvsHX5MEjkS1puBlgP1WY1fwpxKgd1~AwrZXW8ZQVKl08FYb0yLNxRQXqHAmGhTzay7ybkKelZ5AKCqhV~Kt2i56xbyX0zaNQA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="" group-title="DurbinLive" ,DD Sports
-https://cutt.ly/hnPbKEq
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Music" ,9xm
@@ -193,8 +369,6 @@ https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla", spny aath 2 
 https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-1-Hindi-HD-Logo.jpg" group-title="Sports",Star Sports 1 Hindi
-https://5opm.vkcdn5.com/hls/ipl.m3u8
 
 
 
@@ -235,9 +409,7 @@ http://103.157.237.18:8000/play/730
 #EXTINF:-1, Romedy Now HD
 
 http://103.157.237.18:8000/play/727
-#EXTINF:-1, T Sports HD
 
-http://103.157.237.18:8000/play/630
 #EXTINF:-1, & Pictures HD
 
 http://103.157.237.18:8000/play/330
@@ -298,9 +470,7 @@ http://103.157.237.18:8000/play/304
 #EXTINF:-1, Disney Channel
 
 http://103.157.237.18:8000/play/404
-#EXTINF:-1, Star Sports 3
 
-http://103.157.237.18:8000/play/605
 #EXTINF:-1, Al Jazeera English
 
 http://103.157.237.18:8000/play/1005
@@ -321,13 +491,7 @@ http://103.157.237.18:8000/play/405
 http://103.157.237.18:8000/play/305
 #EXTINF:-1,Gazi TV HD
 
-http://103.157.237.18:8000/play/122
-#EXTINF:-1, Star Sports Select 2 HD
 
-http://103.157.237.18:8000/play/610
-#EXTINF:-1, Star Sports Select 1
-
-http://103.157.237.18:8000/play/607
 #EXTINF:-1, Star Movies Select HD
 
 http://103.157.237.18:8000/play/707
@@ -346,9 +510,8 @@ http://103.157.237.18:8000/play/723
 #EXTINF:-1, HBO Signature HD
 
 http://103.157.237.18:8000/play/741
-#EXTINF:-1, Star Sports 2
 
-http://103.157.237.18:8000/play/603
+
 #EXTINF:-1,0,QAM Service Unavailable
 
 http://103.157.237.18:8000/play/1866
@@ -373,9 +536,7 @@ http://103.157.237.18:8000/play/703
 #EXTINF:-1, Sony PIX
 
 http://103.157.237.18:8000/play/710
-#EXTINF:-1, Sony Ten 2 HD
 
-http://103.157.237.18:8000/play/614
 #EXTINF:-1, Zee Action
 
 http://103.157.237.18:8000/play/322
@@ -385,9 +546,7 @@ http://103.157.237.18:8000/play/204
 #EXTINF:-1, CNN
 
 http://103.157.237.18:8000/play/1002
-#EXTINF:-1, Sony Ten 3 HD
 
-http://103.157.237.18:8000/play/616
 #EXTINF:-1, Maasranga TV HD
 
 http://103.157.237.18:8000/play/119
@@ -400,18 +559,14 @@ http://103.157.237.18:8000/play/902
 #EXTINF:-1, Channel 9
 
 http://103.157.237.18:8000/play/120
-#EXTINF:-1, Sony Ten 2
 
-http://103.157.237.18:8000/play/613
 #EXTINF:-1,MTV HD+
 
 http://103.157.237.18:8000/play/802
 #EXTINF:-1, National Geographic Channel HD
 
 http://103.157.237.18:8000/play/502
-#EXTINF:-1,Star Sports 1 HD
 
-http://103.157.237.18:8000/play/602
 #EXTINF:-1, Nick Junior
 
 http://103.157.237.18:8000/play/412
@@ -427,9 +582,7 @@ http://103.157.237.18:8000/play/805
 #EXTINF:-1, MNX HD
 
 http://103.157.237.18:8000/play/713
-#EXTINF:-1,  DD Sports
 
-http://103.157.237.18:8000/play/623
 #EXTINF:-1,  Colors CIneplex Bollywood
 
 http://103.157.237.18:8000/play/343
@@ -457,9 +610,7 @@ http://103.157.237.18:8000/play/337
 #EXTINF:-1,Zee Bollywood
 
 http://103.157.237.18:8000/play/323
-#EXTINF:-1,Sony SIX
 
-http://103.157.237.18:8000/play/617
 #EXTINF:-1,Star Jalsha
 
 http://103.157.237.18:8000/play/201
@@ -469,10 +620,7 @@ http://103.157.237.18:8000/play/301
 #EXTINF:-1, Zee Bangla HD
 
 http://103.157.237.18:8000/play/206
-#EXTINF:-1,Star Sports 2 HD
 
-http://103.157.237.18:8000/play/604
-#EXTINF:-1, Star Sports 1 Bangla
 
 http://103.157.237.18:8000/play/601
 #EXTINF:-1, Star World HD
@@ -483,8 +631,7 @@ http://103.157.237.18:8000/play/701
 http://103.157.237.18:8000/play/401
 #EXTINF:-1, National Geographic Channel
 
-http://103.157.237.18:8000/play/501
-#EXTINF:-1, Sony SIX HD
+
 
 http://103.157.237.18:8000/play/618
 #EXTINF:-1, Somoy TV
@@ -527,8 +674,7 @@ http://103.157.237.18:8000/play/403
 http://103.157.237.18:8000/play/303
 #EXTINF:-1,Jalsha Movies
 http://103.157.237.18:8000/play/203
-#EXTINF:-1, Star Sports First
-http://103.157.237.18:8000/play/628
+
 #EXTINF:-1, Sony MAX HD
 http://103.157.237.18:8000/play/338
 #EXTINF:-1, Hungama
@@ -537,49 +683,6 @@ http://103.157.237.18:8000/play/407
 http://103.157.237.18:8000/play/1009
 #EXTINF:-1, Deepto TV HD
 http://103.157.237.18:8000/play/128
-#EXTINF:-1,TSN 1
-http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzA6MDAgUE0maGFzaF92YWx1ZT1MWkp3T0FmNTQ4ViswZTFlMHJhRExRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,TSN 2
-http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzE6MjMgUE0maGFzaF92YWx1ZT1MTjBkenJrZ1hlZkNPQkVlekIyVlVnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,TSN 3
-http://stream.tvtap.live:8081/live/tsn3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzI6MTcgUE0maGFzaF92YWx1ZT1ibmtLdEsvbGJES0hHSDY0OThwT3BRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,TSN 4
-http://stream.tvtap.live:8081/live/tsn4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzM6MDcgUE0maGFzaF92YWx1ZT1EMW9BaVdpU2RZOHpYMGlscTVQNU5BPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1,TSN 5
-http://stream.tvtap.live:8081/live/tsn5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzM6NTAgUE0maGFzaF92YWx1ZT03RnZVVTA0c2c0WUtDRUdCTWR2VERRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,CANAL+ SPORTS
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6MzQ6NTIgUE0maGFzaF92YWx1ZT15T0FycnB0SngzSnR4WUZOYVlKUmpBPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1,PREMIER SPORTS
-http://stream.tvtap.live:8081/live/prem.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6Mzc6MDUgUE0maGFzaF92YWx1ZT1LZWtTTHJWWmlLeXpsemtKMDFwa1RRPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1,ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDA6MzEgUE0maGFzaF92YWx1ZT11MkFUY0xacXRXMUpVZk9mQS9EZURnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,ESPN
-http://stream.tvtap.live:8081/live/nl-foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDQ6NDggUE0maGFzaF92YWx1ZT0zNm03bjdNQkx5cHFxQXNkS2xtWlV3PT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1,ESPN 2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDE6MTEgUE0maGFzaF92YWx1ZT1OR0w0Q0RwUEMxWXMzaSt4MG9CUkF3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,ESPN 3
-http://stream.tvtap.live:8081/live/nl-foxsports3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDU6NTggUE0maGFzaF92YWx1ZT05WFU3Skt1dDhBZEg1c3c0dGVBc1hRPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1,ESPN 4
-http://stream.tvtap.live:8081/live/nl-foxsports4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDY6NDggUE0maGFzaF92YWx1ZT1vYlNGd01rUkR5NUVpaEwwS1hoMnN3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1,ESPN 5
-http://stream.tvtap.live:8081/live/nl-foxsports5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIxIDQ6NDc6MzUgUE0maGFzaF92YWx1ZT1CUHNxVlZCK0hkM01NZHk0OUsxU3dnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 ,#EXTINF:-1,Nandan TV
@@ -589,35 +692,6 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1,Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1,STAR SPORTS 1 HD
-http://tv.pmcon.net/hls/stream15.m3u8
-
-#EXTINF:-1,STAR SPORTS 2 HD
-http://tv.pmcon.net/hls/stream16.m3u8
-
-#EXTINF:-1,SONY SIX HD
-http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF:-1,TEN SPORTS
-http://livespecial.hjkm.info:11991/minerva/tensports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDY6MTM6MTAgUE0maGFzaF92YWx1ZT1KQXJwMDhKTkRSU01YZUFLNUR2bkJRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,PTV SPORTS
-http://tv.pmcon.net/hls/stream11.m3u8
-
-
-#EXTINF:-1,STAR SPORTS 3
-http://103.109.56.116/live/skyfeed1022/index.m3u8
-
-
-#EXTINF:-1, BT SPORTHD 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1, BT SPORTHD 2
-http://212.224.98.204:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED
-
-#EXTINF:-1, BT SPORTHD 3
-http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED
-
-#EXTINF:-1,STAR SPORTS 3
-http://103.109.56.116/live/skyfeed1022/index.m3u8
 
 #EXTINF:-1,&PRIVE HD
 http://tv.pmcon.net/hls/stream1.m3u8
@@ -636,8 +710,6 @@ http://tv.pmcon.net/hls/stream7.m3u8
 #EXTINF:-1,ZOOM
 http://tv.pmcon.net/hls/stream8.m3u8
 
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://tv.pmcon.net/hls/stream13.m3u8
 
@@ -677,17 +749,11 @@ http://tv.pmcon.net/hls/stream29.m3u8
 http://tv.pmcon.net/hls/stream30.m3u8
 #EXTINF:-1,COLORS BANGLA HD
 http://tv.pmcon.net/hls/stream31.m3u8
-#EXTINF:-1,TEN CRICKET
-http://tv.pmcon.net/hls/stream34.m3u8
+
 #EXTINF:-1,ALJAzEERA
 http://tv.pmcon.net/hls/stream35.m3u8
 #EXTINF:-1,BBC WORLD NEWS
 http://tv.pmcon.net/hls/stream36.m3u8
 #EXTINF:-1,TRAVELXP HD
 http://tv.pmcon.net/hls/stream37.m3u8
-#EXTINF:-1,STAR PLUS HD
-http://tv.pmcon.net/hls/stream38.m3u8
-#EXTINF:-1,SONY TEN 2 HD
-http://tv.pmcon.net/hls/stream39.m3u8
-#EXTINF:-1,SONY TEN 1 HD
-http://tv.pmcon.net/hls/stream40.m3u8
+
