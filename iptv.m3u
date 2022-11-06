@@ -6,3 +6,24 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
 #EXTINF:-1,Gazi Tv HD
 http://172.16.29.28/hls/sports3.m3u8
+#EXTINF:-1,Gazi Tv HD
+http://172.16.29.250/hls/Gazi-TV.m3u8
+
+#EXTINF:-1,Sony Six HD
+http://172.16.29.250/hls/sonysix.m3u8
+
+#EXTINF:-1,Star sports 1 HD
+http://172.16.29.250/hls/Star_Sport_Select1HD-48985.ts
+
+#EXTINF:-1,Star sports 1 HD
+
+http://172.16.29.250/hls/starsports1hd.m3u8
+
+#EXTINF:-1,Star sports 1 HD
+
+
+
+#EXTINF:-1,Star sports 1 HD
+
+
+#EXTINF:-1,Star sports 1 HD
