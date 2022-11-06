@@ -12,8 +12,8 @@ http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:-1,Sony Six HD
 http://172.16.29.250/hls/sonysix.m3u8
 
-#EXTINF:-1,Star sports 1 HD
-http://172.16.29.250/hls/Star_Sport_Select1HD-48985.ts
+#EXTINF:-1,Star sports selection 1 HD
+http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1,Star sports 1 HD
 
