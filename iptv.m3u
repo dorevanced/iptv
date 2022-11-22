@@ -39,8 +39,8 @@ http://172.16.50.2:8082/Star-Sports-1/index.m3u8?token=3a166538bf776c09578fd4ed3
 #EXTINF:-1,T Sports HD
 http://172.16.50.2:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=5b8544310e35364829a818e16aa5110e01738284-622b7606d588f1a07345c9f1fff2b8d8-1669110284-1669099484
 
-#EXTINF:-1,T sports
+#EXTINF:-1, Gazi tv HD
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Gazi tv HD 
+#EXTINF:-1, Tsports tv HD 
 http://103.78.255.178:8080/starselect1/index.m3u8
