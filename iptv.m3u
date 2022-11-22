@@ -36,7 +36,7 @@ http://172.16.50.2:8082/Star-Select-2/tracks-v1a1/mono.m3u8?token=ad08720a8e3155
 #EXTINF:-1,Star sports 1 HD
 http://172.16.50.2:8082/Star-Sports-1/index.m3u8?token=3a166538bf776c09578fd4ed36e09ff3cd9cc54d-f8be1a82c7ad151a310819ec125cb7fd-1669110271-1669099471
 
-#EXTINF:-1,T Sports HD
+#EXTINF:-1,Star Sports 2 HD
 http://172.16.50.2:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=5b8544310e35364829a818e16aa5110e01738284-622b7606d588f1a07345c9f1fff2b8d8-1669110284-1669099484
 
 #EXTINF:-1, Gazi tv HD
