@@ -1,4 +1,4 @@
-#EXTM3U
+P#EXTM3U
 
 
 #EXTINF:-1,Star sports 1 HD
@@ -7,8 +7,7 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1,Gazi Tv HD
 http://172.16.29.28/hls/sports3.m3u8
 
-#EXTINF:-1,T sports HD
-http://172.16.29.250/hls/t-sports.m3u8
+
 
 #EXTINF:-1,Gazi Tv HD
 http://172.16.29.250/hls/Gazi-TV.m3u8
@@ -22,12 +21,39 @@ http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1,Star sports selection 2 HD
 http://172.16.29.250/hls/select2.m3u8
 
-#EXTINF:-1,Star sports 1 HD
-http://172.16.29.250/hls/starsports1hd.m3u8
+
 
 #EXTINF:-1,Ten Sports HD
 http://172.16.29.250/hls/ten.m3u8
 
 #EXTINF:-1,Sony Ten 2 HD
 http://172.16.29.250/hls/sonyten2.m3u8
+
+#EXTINF:-1,Star sports selection 1 HD
+http://15.1.1.38:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=d3768c994862ced9b8dc85efb409612a7178cbb6-3ab0ec4098a204b98765fb0ad8d6a54b-1669109476-1669098676
+
+
+
+#EXTINF:-1,Star sports selection 2 HD
+http://15.1.1.34:8282/select2/preview.mp4?token=5487751516c1a361fb049182d253e0a0f742f10f-6dcd5c251fe66f702f8e31a1d27dd65d-1669109593-1669098793
+
+#EXTINF:-1,Star sports selection 3 HD
+http://172.16.50.2:8082/Star-Select-2/tracks-v1a1/mono.m3u8?token=ad08720a8e3155fbf57f97f9dad05930daa08b73-2cf64507b1d2334f4ece0bf56b8d6cdc-1669110154-1669099354
+
+#EXTINF:-1,Star sports selection 1 HD
+http://172.16.50.2:8082/Star-Select-1/tracks-v1a1/2022/11/22/06/48/54-05999.ts?token=8f44f37eb2059f35e1e7e70925c6fdb588ded04f-0c95a166810a7afefe683ccf1c7713b8-1669110249-1669099449
+
+#EXTINF:-1,Star sports 1 HD
+http://172.16.50.2:8082/Star-Sports-1/index.m3u8?token=3a166538bf776c09578fd4ed36e09ff3cd9cc54d-f8be1a82c7ad151a310819ec125cb7fd-1669110271-1669099471
+
+#EXTINF:-1,Star sports 2 HD
+http://172.16.50.2:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=5b8544310e35364829a818e16aa5110e01738284-622b7606d588f1a07345c9f1fff2b8d8-1669110284-1669099484
+
+
+T sports
+http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+
+
+Gazi tv
+http://103.78.255.178:8080/starselect1/index.m3u8
 
