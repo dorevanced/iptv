@@ -5,7 +5,7 @@
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
 #EXTINF:-1,Gazi Tv HD
-http://172.16.29.28/hls/sports3.m3u8
+http://172.16.50.2:8082/Gazi-Tv/preview.mp4?token=328ba6ff2a74537d8e6c6cc73ec341dd2ea64c4b-d7e911470cb64baf73d46ee16a5afc23-1678370446-1678359646
 
 
 
